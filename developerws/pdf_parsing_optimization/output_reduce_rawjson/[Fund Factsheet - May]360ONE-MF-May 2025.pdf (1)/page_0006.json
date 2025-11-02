@@ -1,0 +1,764 @@
+{
+  "title": null,
+  "subtitle": null,
+  "narrative_text": null,
+  "tables": [
+    {
+      "type": "table",
+      "title": "Portfolio as on May 31, 2025",
+      "headers": [
+        "Company Name",
+        "Sector",
+        "% to Net Assets"
+      ],
+      "rows": [
+        [
+          "Equity & Equity Related Total",
+          "",
+          ""
+        ],
+        [
+          "HDFC Bank Limited",
+          "Financial Services",
+          "9.01"
+        ],
+        [
+          "ICICI Bank Limited",
+          "Financial Services",
+          "7.15"
+        ],
+        [
+          "Infosys Limited",
+          "Information Technology",
+          "5.45"
+        ],
+        [
+          "Bharti Airtel Limited",
+          "Telecommunication",
+          "5.34"
+        ],
+        [
+          "Bajaj Finance Limited",
+          "Financial Services",
+          "4.66"
+        ],
+        [
+          "Cholamandalam Investment and Finance Company Limited",
+          "Financial Services",
+          "4.61"
+        ],
+        [
+          "Tata Motors Limited",
+          "Automobile and Auto Components",
+          "4.51"
+        ],
+        [
+          "Divi's Laboratories Limited",
+          "Healthcare",
+          "4.44"
+        ],
+        [
+          "Indus Towers Limited",
+          "Telecommunication",
+          "4.12"
+        ],
+        [
+          "APL Apollo Tubes Limited",
+          "Construction",
+          "3.77"
+        ],
+        [
+          "Eternal Limited",
+          "Consumer Services",
+          "3.75"
+        ],
+        [
+          "Larsen & Toubro Limited",
+          "Construction",
+          "3.25"
+        ],
+        [
+          "Motherson Sumi Wiring India Limited",
+          "Automobile and Auto Components",
+          "3.06"
+        ],
+        [
+          "Premier Energies Limited",
+          "Capital Goods",
+          "2.76"
+        ],
+        [
+          "Cummins India Limited",
+          "Capital Goods",
+          "2.60"
+        ],
+        [
+          "REC Limited",
+          "Financial Services",
+          "2.52"
+        ],
+        [
+          "InterGlobe Aviation Limited",
+          "Services",
+          "2.34"
+        ],
+        [
+          "Crompton Greaves Consumer Electricals Limited",
+          "Consumer Durables",
+          "2.28"
+        ],
+        [
+          "Aavaz Financiers Limited",
+          "Financial Services",
+          "2.28"
+        ],
+        [
+          "Astral Limited",
+          "Capital Goods",
+          "2.21"
+        ],
+        [
+          "Choksey Lifesciences Limited",
+          "Healthcare",
+          "2.10"
+        ],
+        [
+          "Sumitomo Chemical India Limited",
+          "Chemicals",
+          "2.07"
+        ],
+        [
+          "CG Power and Industrial Solutions Limited",
+          "Capital Goods",
+          "1.93"
+        ],
+        [
+          "Sona BLW Precision Forgings Limited",
+          "Automobile and Auto Components",
+          "1.56"
+        ],
+        [
+          "SIS Limited",
+          "Consumer Services",
+          "1.43"
+        ],
+        [
+          "Colgate Palmolive (India) Limited",
+          "Fast Moving Consumer Goods",
+          "1.37"
+        ],
+        [
+          "Blue Dart Express Limited",
+          "Services",
+          "1.32"
+        ],
+        [
+          "NTPC Limited",
+          "Power",
+          "0.93"
+        ],
+        [
+          "Vodafone Idea Limited",
+          "Telecommunication",
+          "0.85"
+        ],
+        [
+          "Bharti Airtel Limited",
+          "Telecommunication",
+          "0.19"
+        ],
+        [
+          "Aegis Vopak Terminals Ltd#",
+          "Miscellaneous",
+          "1.28"
+        ],
+        [
+          "Sub Total",
+          "",
+          "95.17"
+        ],
+        [
+          "Net Receivables / (Payables)",
+          "",
+          "1.52"
+        ],
+        [
+          "Portfolio Total",
+          "",
+          "100.00"
+        ]
+      ],
+      "page_number": 5
+    },
+    {
+      "type": "table",
+      "title": "Scheme Performance",
+      "headers": [
+        "Scheme Performance",
+        "Last 1 year",
+        "PTP (₹)",
+        "Last 3 years",
+        "PTP (₹)",
+        "Last 5 years",
+        "PTP (₹)",
+        "Last 10 years",
+        "PTP (₹)",
+        "Since Inception",
+        "PTP (₹)"
+      ],
+      "rows": [
+        [
+          "360 ONE Focused Equity Fund - Reg - Growth",
+          "5.57%",
+          "10,557",
+          "19.54%",
+          "17,089",
+          "25.35%",
+          "31,003",
+          "15.50%",
+          "42,318",
+          "15.62%",
+          "46,513"
+        ],
+        [
+          "360 ONE Focused Equity Fund - Dir - Growth",
+          "6.61%",
+          "10,661",
+          "20.73%",
+          "17,607",
+          "26.68%",
+          "32,686",
+          "16.85%",
+          "47,575",
+          "16.98%",
+          "52,668"
+        ],
+        [
+          "Benchmark*",
+          "8.54%",
+          "10,854",
+          "18.16%",
+          "16,506",
+          "25.12%",
+          "30,721",
+          "13.94%",
+          "36,938",
+          "13.76%",
+          "39,194"
+        ],
+        [
+          "Additional Benchmark**",
+          "9.41%",
+          "10,941",
+          "14.13%",
+          "14,882",
+          "16.22%",
+          "21,229",
+          "12.79%",
+          "33,296",
+          "12.29%",
+          "33,970"
+        ]
+      ],
+      "page_number": 5
+    },
+    {
+      "type": "table",
+      "title": "SIP - If you had invested ₹10,000 every month",
+      "headers": [
+        "Scheme / Benchmark",
+        "Last 1 year",
+        "Last 3 years",
+        "Last 5 years",
+        "Last 10 years",
+        "Since Inception"
+      ],
+      "rows": [
+        [
+          "Total Amount Invested (₹)",
+          "1,20,000",
+          "3,60,000",
+          "6,00,000",
+          "12,00,000",
+          "12,70,000"
+        ],
+        [
+          "Total Value as on May 31, 2025 (₹)",
+          "1,21,218",
+          "4,59,598",
+          "9,33,743",
+          "30,12,473",
+          "33,12,389"
+        ],
+        [
+          "Returns",
+          "1.91%",
+          "16.57%",
+          "17.76%",
+          "17.53%",
+          "17.16%"
+        ],
+        [
+          "Total Value of Benchmark: BSE 500 TRI (₹)",
+          "1,22,177",
+          "4,56,470",
+          "9,17,263",
+          "27,73,515",
+          "29,76,863"
+        ],
+        [
+          "Benchmark: BSE 500 TRI",
+          "-28.19%",
+          "1.17%",
+          "8.21%",
+          "11.46%",
+          "11.37%"
+        ],
+        [
+          "Total Value of Additional Benchmark: BSE Sensex TRI (₹)",
+          "1,24,410",
+          "4,41,561",
+          "8,68,268",
+          "25,68,807",
+          "27,97,545"
+        ],
+        [
+          "Additional Benchmark: BSE Sensex TRI",
+          "6.97%",
+          "13.78%",
+          "14.79%",
+          "14.58%",
+          "14.22%"
+        ]
+      ],
+      "page_number": 5
+    },
+    {
+      "type": "table",
+      "title": "NAV as on May 30, 2025",
+      "headers": [
+        "",
+        ""
+      ],
+      "rows": [
+        [
+          "Regular - Growth",
+          "₹ 46.4557"
+        ],
+        [
+          "Regular - IDCW",
+          "₹ 41.1137"
+        ],
+        [
+          "Direct - Growth",
+          "₹ 52.5982"
+        ],
+        [
+          "Direct - IDCW",
+          "₹ 52.0617"
+        ]
+      ],
+      "page_number": 5
+    },
+    {
+      "type": "table",
+      "title": "AUM as on May 31, 2025",
+      "headers": [
+        "",
+        ""
+      ],
+      "rows": [
+        [
+          "Net AUM",
+          "₹ 7,400.42 crore"
+        ],
+        [
+          "Monthly Average AUM",
+          "₹ 7,169.02 crore"
+        ]
+      ],
+      "page_number": 5
+    },
+    {
+      "type": "table",
+      "title": "Total Expense Ratio",
+      "headers": [
+        "",
+        ""
+      ],
+      "rows": [
+        [
+          "Regular Plan",
+          "1.80% p.a."
+        ],
+        [
+          "Direct Plan",
+          "0.81% p.a."
+        ]
+      ],
+      "page_number": 5
+    },
+    {
+      "type": "table",
+      "title": "Volatility Measures",
+      "headers": [
+        "Fund",
+        "Benchmark"
+      ],
+      "rows": [
+        [
+          "Std. Dev (Annualised)",
+          "13.28%"
+        ],
+        [
+          "Sharpe Ratio",
+          "0.98"
+        ],
+        [
+          "Portfolio Beta",
+          "0.88"
+        ],
+        [
+          "R Squared",
+          "0.92"
+        ],
+        [
+          "Treynor",
+          "1.23"
+        ]
+      ],
+      "page_number": 5
+    },
+    {
+      "type": "table",
+      "title": "Fund Details",
+      "headers": [
+        "col_1",
+        "col_2"
+      ],
+      "rows": [
+        [
+          "Date of Allotment",
+          "October 30, 2014"
+        ],
+        [
+          "Bloomberg Code",
+          "IIFOCEG IN"
+        ],
+        [
+          "Benchmark Index",
+          "BSE 500 TRI"
+        ],
+        [
+          "Plans Offered",
+          "Regular & Direct"
+        ],
+        [
+          "Options Offered",
+          "Growth & IDCW"
+        ],
+        [
+          "Minimum Application",
+          "₹ 1,000 and in multiples of ₹ 1 thereafter"
+        ],
+        [
+          "Additional Purchase",
+          "₹ 1,000 and in multiples of ₹ 1 thereafter"
+        ],
+        [
+          "Weekly SIP Option*",
+          "₹ 1,000 per instalment for a minimum period of 6 weeks - any business day between Monday to Friday. Default day will be Wednesday"
+        ],
+        [
+          "Fortnightly SIP Option*",
+          "₹ 1,000 per instalment for a minimum period of 6 fortnights - 1st and 16th day of every 2 months"
+        ],
+        [
+          "Monthly SIP Option*",
+          "₹ 1,000 per instalment for a minimum period of 6 months - Any date 1st to 28th (Default - 7th of every month)"
+        ],
+        [
+          "Quarterly SIP Option*",
+          "₹ 1,000 per instalment for a minimum period of 6 quarters - Any date 1st to 28th (Default - 7th)"
+        ],
+        [
+          "Entry Load",
+          "NIL"
+        ],
+        [
+          "Exit Load",
+          "NIL, if redeemed/switched out on or before 12 months from the date of allotment w.e.f April 02, 2019. *Daily Option Available"
+        ],
+        [
+          "Dematerialization",
+          "Yes"
+        ],
+        [
+          "Portfolio Turnover Ratio",
+          "0.33 times"
+        ]
+      ],
+      "page_number": 5
+    }
+  ],
+  "charts": [
+    {
+      "type": "chart",
+      "chart_type": "pie",
+      "title": "Sector Allocation",
+      "x_axis": {
+        "label": null,
+        "values": []
+      },
+      "y_axis": {
+        "label": null,
+        "values": []
+      },
+      "data_series": [
+        {
+          "name": "Financial Services",
+          "values": [
+            32.23
+          ]
+        },
+        {
+          "name": "Telecommunication",
+          "values": [
+            10.5
+          ]
+        },
+        {
+          "name": "Automobile and Auto Components",
+          "values": [
+            9.13
+          ]
+        },
+        {
+          "name": "Healthcare",
+          "values": [
+            6.54
+          ]
+        },
+        {
+          "name": "Information Technology",
+          "values": [
+            5.45
+          ]
+        },
+        {
+          "name": "Consumer Services",
+          "values": [
+            5.18
+          ]
+        },
+        {
+          "name": "Services",
+          "values": [
+            3.66
+          ]
+        },
+        {
+          "name": "Capital Goods",
+          "values": [
+            9.5
+          ]
+        },
+        {
+          "name": "Consumer Durables",
+          "values": [
+            2.28
+          ]
+        },
+        {
+          "name": "Construction",
+          "values": [
+            7.02
+          ]
+        },
+        {
+          "name": "Fast Moving Consumer Goods",
+          "values": [
+            1.37
+          ]
+        },
+        {
+          "name": "Miscellaneous",
+          "values": [
+            1.28
+          ]
+        },
+        {
+          "name": "Chemicals",
+          "values": [
+            2.07
+          ]
+        },
+        {
+          "name": "Power",
+          "values": [
+            0.93
+          ]
+        }
+      ],
+      "page_number": 5
+    },
+    {
+      "type": "chart",
+      "chart_type": "pie",
+      "title": "Market Capitalization wise Exposure",
+      "x_axis": {
+        "label": null,
+        "values": []
+      },
+      "y_axis": {
+        "label": null,
+        "values": []
+      },
+      "data_series": [
+        {
+          "name": "Small Cap",
+          "values": [
+            14.5
+          ]
+        },
+        {
+          "name": "Mid Cap",
+          "values": [
+            18.9
+          ]
+        },
+        {
+          "name": "Large Cap",
+          "values": [
+            66.81
+          ]
+        }
+      ],
+      "page_number": 5
+    },
+    {
+      "type": "chart",
+      "chart_type": "line",
+      "title": "NAV Movement (Since Inception) Rebased to 100",
+      "x_axis": {
+        "label": "Date",
+        "values": [
+          "Oct-14",
+          "Feb-15",
+          "Jun-17",
+          "Jan-18",
+          "Feb-20",
+          "May-21",
+          "Sep-22",
+          "Jan-24",
+          "May-25"
+        ]
+      },
+      "y_axis": {
+        "label": "Value",
+        "values": [
+          100,
+          150,
+          200,
+          250,
+          300,
+          350,
+          400,
+          450,
+          500
+        ]
+      },
+      "data_series": [
+        {
+          "name": "360 ONE Focused Equity Fund - Reg - Growth",
+          "values": [
+            100,
+            110,
+            180,
+            200,
+            220,
+            300,
+            350,
+            420,
+            460
+          ]
+        },
+        {
+          "name": "BSE 500 TRI",
+          "values": [
+            100,
+            105,
+            170,
+            190,
+            200,
+            280,
+            320,
+            380,
+            420
+          ]
+        }
+      ],
+      "page_number": 5
+    },
+    {
+      "type": "chart",
+      "chart_type": "gauge",
+      "title": "Scheme Risk-O-Meter",
+      "x_axis": {
+        "label": null,
+        "values": []
+      },
+      "y_axis": {
+        "label": null,
+        "values": []
+      },
+      "data_series": [
+        {
+          "name": "Risk Level",
+          "values": [
+            "Very High"
+          ]
+        }
+      ],
+      "page_number": 5
+    },
+    {
+      "type": "chart",
+      "chart_type": "gauge",
+      "title": "Benchmark Risk-O-Meter",
+      "x_axis": {
+        "label": null,
+        "values": []
+      },
+      "y_axis": {
+        "label": null,
+        "values": []
+      },
+      "data_series": [
+        {
+          "name": "Risk Level",
+          "values": [
+            "Very High"
+          ]
+        }
+      ],
+      "page_number": 5
+    }
+  ],
+  "page_number": 6,
+  "notes": null,
+  "debug": {
+    "sent_image_path": null,
+    "sent_image_mime": "image/png",
+    "sent_image_bytes": 634007,
+    "image_px": [
+      0,
+      0
+    ],
+    "image_token_est": 0,
+    "tables_only": true,
+    "raw_model_text_omitted": true,
+    "tables_only_mode": true,
+    "kept_structured_only": true
+  }
+}

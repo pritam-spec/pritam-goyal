@@ -1,0 +1,48 @@
+{
+  "title": null,
+  "subtitle": null,
+  "narrative_text": "June 2025\n\nPage |\n\nMutual Fund investments are subject to market risks, read all scheme related documents carefully.\n\n13\n\n360 ONE Gold ETF\n\n(An open-ended exchange traded fund replicating/tracking domestic prices of Gold.)\nThe investment objective of the scheme is\nto generate returns that are in line with the\nperformance of physical gold in domestic prices,\nsubject to tracking error. However, there is no\nassurance that the investment objective of the\nScheme will be realized and the Scheme does not\nassure or guarantee any returns.\nMr. Khetawat has over 14 years of experience of\nhandling multiple asset classes including Forex.\n\nInvestment Objective\n\nFund Manager Mr. Rahul Khetawat\n^As of May 31, 2025\n\nInstrument Wise Composition^\nGold\n95.85%\nTREPS/ Net\nCurrent\nAsset\n4.16%\n\nPortfolio as on May 31, 2025\n\nCompany Name\n\n% to Net Assets\n\nGold\n\n95.85\nGold\n95.85\nTREPS##\n1.48\n\nSub Total\n\n1.48\nNet Receivables / (Payables)\n2.68\n\nPortfolio Total\n\n100.00\nTHIS PRODUCT IS SUITABLE FOR INVESTORS WHO ARE SEEKING*\n• Long term capital appreciation;\n• Investment in gold in order to generate returns similar to the\nperformance of the gold, subject to tracking errors.\n*Investors should consult their financial advisers if in doubt about\nwhether the product is suitable for them.\n##With effect from November 05, 2018, Triparty Repo has\nreplaced CBLOs for all schemes with provisions to invest in CBLO.\n\n360 ONE Gold ETF\n: ` 94.2511\n\nNet AUM\n:\n` 14.88 crore\n\nMonthly Average AUM\n:\n` 14.81 crore\n\nRegular Plan\n:\n0.43% p.a.\nTotal Expense Ratio is as on the last business\nday of the month.\n\nDate of Allotment\n: March 07, 2025\n\nBenchmark Index\n: Domestic Prices of Gold\n\nPlans Offered\n:\nThe Scheme does not\noffer any Plans for\ninvestment.\n\nOptions Offered\n:\nThe Scheme does not\noffer any Options for\ninvestment.\n\nMinimum Application\n\nNew Purchase\n: lot of 1 unit and in\nmultiples thereof\n\nAdditional Purchase\n: lot of 1 unit and in\nmultiples thereof\n\nEntry Load\n: NIL\n\nExit Load\n: NIL\n\nDematerialization\n: D-Mat Option Available\n\nExchange Listed\n: NSE,BSE\n\nExchange Symbol/\n\nScrip Code\n: GOLD360, 544375\n\nISIN\n: INF579M01BB5\n\nAsset Allocation\n:\n\nGold and gold\n\nrelated instrument\n: 95% to 100%\n\nDebt Market\n: 0% to 5%\n\nMoney Market\n: 0% to 5%\n\nTracking Error\n: 0.87%\n\nNAV as on May 30, 2025\n\nAUM as on May 31, 2025\n\nTotal Expense Ratio\n\nFund Details\nDomestic Prices of Gold\n\nScheme Risk-O-Meter\n\nBenchmark Risk-O-Meter\n\nRISKOMETER\nLow Risk\nLow to Moderate Risk\nModerately High Risk\nHigh Risk\nVery High Risk\nModerate Risk\nThe risk of the scheme is High\n\nRISKOMETER\nLow Risk\nLow to Moderate Risk\nModerately High Risk\nHigh Risk\nVery High Risk\nModerate Risk\nThe risk of the benchmark is High",
+  "tables": [],
+  "charts": [
+    {
+      "type": "chart",
+      "chart_type": "pie",
+      "title": "Instrument Wise Composition",
+      "x_axis": {
+        "label": null,
+        "values": []
+      },
+      "y_axis": {
+        "label": null,
+        "values": []
+      },
+      "data_series": [
+        {
+          "name": "Gold",
+          "values": [
+            95.85
+          ]
+        },
+        {
+          "name": "TREPS/ Net Current Asset",
+          "values": [
+            4.15
+          ]
+        }
+      ],
+      "page_number": 1
+    }
+  ],
+  "page_number": 14,
+  "debug": {
+    "sent_image_path": null,
+    "sent_image_mime": "image/png",
+    "sent_image_bytes": 240075,
+    "image_px": [
+      0,
+      0
+    ],
+    "image_token_est": 0,
+    "prompt_used": "CHART_ONLY_PROMPT"
+  }
+}

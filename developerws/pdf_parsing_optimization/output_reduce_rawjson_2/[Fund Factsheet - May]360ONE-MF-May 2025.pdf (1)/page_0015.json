@@ -1,0 +1,228 @@
+{
+  "title": "360 ONE Silver ETF",
+  "subtitle": "(An open-ended exchange traded fund replicating/tracking domestic prices of Silver.)",
+  "narrative_text": null,
+  "tables": [
+    {
+      "type": "table",
+      "title": "Portfolio as on May 31, 2025",
+      "headers": [
+        "Company Name",
+        "% to Net Assets"
+      ],
+      "rows": [
+        [
+          "Silver",
+          "96.46"
+        ],
+        [
+          "Silver",
+          "96.46"
+        ],
+        [
+          "TREPS##",
+          "0.40"
+        ],
+        [
+          "Sub Total",
+          "0.40"
+        ],
+        [
+          "Net Receivables / (Payables)",
+          "3.14"
+        ],
+        [
+          "Portfolio Total",
+          "100.00"
+        ]
+      ],
+      "page_number": 1
+    },
+    {
+      "type": "table",
+      "title": "Fund Details",
+      "headers": [
+        "Date of Allotment",
+        "Benchmark Index",
+        "Plans Offered",
+        "Options Offered",
+        "Minimum Application",
+        "New Purchase",
+        "Additional Purchase",
+        "Entry Load",
+        "Exit Load",
+        "Dematerialization",
+        "Exchange Listed",
+        "Exchange Symbol/ Scrip Code",
+        "ISIN",
+        "Asset Allocation",
+        "Silver and Silver related Instrument",
+        "Debt Market",
+        "Money Market",
+        "Tracking Error"
+      ],
+      "rows": [
+        [
+          "March 28, 2025",
+          "Domestic Prices of Silver",
+          "The Scheme does not offer any Plans for investment.",
+          "The Scheme does not offer any Options for investment.",
+          "lot of 1 unit and in multiples thereof",
+          "lot of 1 unit and in multiples thereof",
+          "NIL",
+          "NIL",
+          "Available",
+          "NSE,BSE",
+          "SILVER360, 544389",
+          "INF579M01BC3",
+          "95% to 100%",
+          "0% to 5%",
+          "0% to 5%",
+          "1.18%",
+          null,
+          null
+        ]
+      ],
+      "page_number": 1
+    },
+    {
+      "type": "table",
+      "title": "NAV as on May 30, 2025",
+      "headers": [
+        "360 ONE Silver ETF"
+      ],
+      "rows": [
+        [
+          "₹ 97.2665"
+        ]
+      ],
+      "page_number": 1
+    },
+    {
+      "type": "table",
+      "title": "AUM as on May 31, 2025",
+      "headers": [
+        "Net AUM",
+        "Monthly Average AUM"
+      ],
+      "rows": [
+        [
+          "₹ 7.55 crore",
+          "₹ 7.34 crore"
+        ]
+      ],
+      "page_number": 1
+    },
+    {
+      "type": "table",
+      "title": "Total Expense Ratio",
+      "headers": [
+        "Regular Plan"
+      ],
+      "rows": [
+        [
+          "0.41% p.a."
+        ]
+      ],
+      "page_number": 1
+    }
+  ],
+  "charts": [
+    {
+      "type": "chart",
+      "chart_type": "pie",
+      "title": "Instrument Wise Composition",
+      "x_axis": {
+        "label": null,
+        "values": []
+      },
+      "y_axis": {
+        "label": null,
+        "values": []
+      },
+      "data_series": [
+        {
+          "name": "Silver",
+          "values": [
+            96.46
+          ]
+        },
+        {
+          "name": "TREPS/Net Current Asset",
+          "values": [
+            3.54
+          ]
+        }
+      ],
+      "page_number": 1
+    }
+  ],
+  "page_number": 15,
+  "notes": null,
+  "debug": {
+    "sent_image_path": null,
+    "sent_image_mime": "image/png",
+    "sent_image_bytes": 241718,
+    "image_px": [
+      0,
+      0
+    ],
+    "image_token_est": 0,
+    "tables_only": true,
+    "raw_model_text_omitted": true,
+    "local_raw_lines_count": 129,
+    "local_filter_debug": {
+      "orig_sections": 48,
+      "filtered_sections": 11
+    },
+    "local_text_extracted": true,
+    "tables_from_llm": 5,
+    "charts_from_llm": 1
+  },
+  "sections": [
+    {
+      "heading": "(An open-ended exchange traded fund replicating/tracking domestic prices of Silver.)",
+      "content": ""
+    },
+    {
+      "heading": "Investment Objective",
+      "content": ""
+    },
+    {
+      "heading": "Fund Manager Mr. Rahul Khetawat",
+      "content": ""
+    },
+    {
+      "heading": "Scheme Risk-O-Meter",
+      "content": ""
+    },
+    {
+      "heading": "Benchmark Risk-O-Meter",
+      "content": ""
+    },
+    {
+      "heading": "Exchange Symbol/",
+      "content": "*Investors should consult their financial advisers if in doubt about"
+    },
+    {
+      "heading": "Scrip Code",
+      "content": "Low Risk\nVery High Risk\nLow Risk\nVery High Risk\nwhether the product is suitable for them."
+    },
+    {
+      "heading": "RISKOMETER",
+      "content": ""
+    },
+    {
+      "heading": "RISKOMETER",
+      "content": ""
+    },
+    {
+      "heading": "June 2025",
+      "content": "Mutual Fund investments are subject to market risks, read all scheme related documents carefully."
+    },
+    {
+      "heading": "Page |",
+      "content": "14"
+    }
+  ]
+}

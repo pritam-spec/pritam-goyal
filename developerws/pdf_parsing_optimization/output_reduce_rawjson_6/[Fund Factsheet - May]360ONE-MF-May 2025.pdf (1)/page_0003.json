@@ -1,0 +1,45 @@
+{
+  "page_number": 3,
+  "title": null,
+  "subtitle": null,
+  "narrative_text": null,
+  "tables": [],
+  "charts": [],
+  "notes": null,
+  "error": "no_tables_or_charts",
+  "debug": {
+    "sent_image_path": null,
+    "sent_image_mime": "image/png",
+    "sent_image_bytes": 575872,
+    "image_px": [
+      0,
+      0
+    ],
+    "image_token_est": 0,
+    "tables_only": true,
+    "raw_model_text_omitted": true,
+    "local_raw_lines_count": 58
+  },
+  "sections": [
+    {
+      "heading": "MONTHLY MARKET UPDATE",
+      "content": ""
+    },
+    {
+      "heading": "Equity Market",
+      "content": ""
+    },
+    {
+      "heading": "Indian Equity Markets: May 2025",
+      "content": "Indian benchmark equity indices witnessed marginal gains during the month. Markets corrected during the early part of May 2025 due\nto escalating tensions between India and Pakistan, following India’s launch of ‘Operation Sindoor’ targeting terrorist infrastructure in\nPakistan and Pakistan-occupied Jammu and Kashmir. However, sentiment improved thereafter as tensions eased.\nThe Nifty 50 and BSE Sensex indices posted monthly gains of 1.7% and 1.5%, respectively, in May 2025. However, the benchmark\nindices remain down by approximately 5-6% from their peak. Foreign Portfolio Investors (FPIs) continued to remain net buyers for\nthe second consecutive month with a net inflow of US$2.3 billion. Meanwhile, Domestic Institutional Investors (DIIs) bought US$7.9\nbillion during the month.\nThe broader market indices' performance was comparatively much better, with BSE MidCap and BSE SmallCap reporting monthly\ngains of 5.3% and 10.6%, respectively. Among the sector indices, Defence, Industrials, Real Estate and Metals outperformed with\nmonth gains of 21.8%, 14.3%, 7.2% and 5.9%, respectively. However, Utilities and FMCG underperformed with monthly losses of\n0.9% and 0.7%, respectively.\nIndia’s real GDP growth accelerated to 7.4% YoY in Q4FY25 from 6.4% in the previous quarter. In Q4FY25, the agriculture sector\nrecorded healthy growth of 5.4%, supported by strong agricultural output. The manufacturing sector’s growth further recovered\nto 4.8% YoY from 3.6% YoY in the previous quarter. Services sector growth remained resilient as weakness in the Trade+ segment\nwas more than offset by strong construction activity and improvement in the Financial Services+ segment. Private consumption\ngrowth slowed to 6.0% YoY in Q4FY25 from 8.1% in the previous quarter, as indicators point to subdued urban consumption. Fixed\ninvestment growth rebounded to 9.4% YoY in Q4 from 5.2% in Q3 as government capital expenditure picked up.\nFor FY25, real GDP growth eased to 6.5% YoY from 9.2% in the previous year. Nominal GDP growth declined to 9.8% YoY in FY25\nfrom 12% YoY in FY24, as weaker real GDP growth outweighed the impact of a higher GDP deflator (inflation). On the production\nside, the manufacturing sector witnessed the steepest decline in its contribution to GDP growth in FY25, while on the expenditure\nside, fixed investment experienced the sharpest drop in contribution, followed by government consumption.\nIndia’s Consumer Price Index (CPI) inflation eased to 3.16% YoY in April 2025 from 3.34% in the previous month. The decline in\nheadline inflation was driven by a fall in food inflation to 2.1% YoY in April 2025 from 2.9% YoY in March 2025. Core inflation (which\nexcludes food and fuel) remained flat at 4.2% YoY.\nThe IMD has updated the forecast for the Southwest Monsoon to 106% of the long-period average, up from the previous 105%. The\nIMD assigned a 59% likelihood to an above-normal or excess monsoon, a 31% chance of a normal monsoon, and only a 10% chance\nof it being below normal or deficient."
+    },
+    {
+      "heading": "Outlook",
+      "content": "The reciprocal tariffs announced on 2nd April pose a significant threat to global growth. These measures are likely to drive inflation\nin the United States and disrupt global trade flows. While India is relatively better positioned than many other countries, which may\nface steeper tariffs, its exports to the US are still expected to come under pressure due to a slowdown in the US economy. However,\nmerchandise exports to the US amount to only 2% of GDP, which limits the impact of tariffs. With significant uncertainty surrounding\nthe implementation of tariffs and their potential impact on global trade, the equity risk premium has the potential to rise across\nmarkets. Hence, investors should prepare for further volatility.\nThe domestic macro environment is turning conducive to an economic recovery. First, income tax reductions will increase consumers'\ndisposable income, benefiting consumption-driven sectors, particularly discretionary consumption. Second, food inflation is expected\nto remain benign due to robust agricultural production, which will further support consumption. Third, more interest rate cuts are\nexpected in 2025 to stimulate the economy. Fourth, regulatory easing is also underway, with the RBI reversing the November 2023\nhike in risk weights for bank loans to NBFCs and microfinance consumer credit loans.\nLooking ahead, we expect key shifts in market trends:\n• Growth leadership is shifting from government capital expenditures to consumer discretionary spending.\n• After an outperformance of around three years, Value may take a back seat, and Quality and growth factors may regain favour.\nLooking ahead, discretionary consumption is expected to rise, driven by budget stimulus for the urban middle class, followed by a\npay commission-related boost next year. Additionally, liquidity easing, accompanied by rate cuts, would create a favourable\npremise for growth and quality to come back.\n• In our portfolios, we have been shifting some weight from Value to quality and growth over the last year.\nSeveral high-growth areas have strong value-creation potential. Key segments include auto EV plays, manufacturing, and pharma\nCDMO. The power transmission, distribution, and renewable energy sectors also present significant opportunities. Quick commerce\nis an emerging sector expected to experience exponential growth over the next five years. Additionally, telecom and high-quality\nprivate banks remain attractive value segments.\nWe have consistently maintained a more favourable stance towards inward-looking sectors driven by domestic fundamentals, rather\nthan those reliant on external or global factors. Our outlook continues to reflect this preference, as we believe domestic-oriented\nsectors offer greater resilience and stability amid global uncertainties."
+    },
+    {
+      "heading": "Source: CMIE, Bloomberg and Internal research",
+      "content": "June 2025\nMutual Fund investments are subject to market risks, read all scheme related documents carefully.\nPage |\n2"
+    }
+  ]
+}

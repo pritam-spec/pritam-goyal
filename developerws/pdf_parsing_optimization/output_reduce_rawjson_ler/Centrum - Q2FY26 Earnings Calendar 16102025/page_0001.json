@@ -1,0 +1,40 @@
+{
+  "page_number": 1,
+  "title": "2\u0013\n2\u0013",
+  "subtitle": "&DOHQGDU",
+  "narrative_text": null,
+  "tables": [],
+  "charts": [],
+  "notes": null,
+  "error": "no_tables_or_charts",
+  "debug": {
+    "sent_image_path": null,
+    "sent_image_mime": "image/png",
+    "sent_image_bytes": 1051728,
+    "image_px": [
+      0,
+      0
+    ],
+    "image_token_est": 0,
+    "tables_only": true,
+    "raw_model_text_omitted": true,
+    "local_raw_lines_count": 3,
+    "local_filter_debug": {
+      "orig_sections": 2,
+      "filtered_sections": 2
+    },
+    "local_text_extracted": true,
+    "tables_from_llm": 0,
+    "charts_from_llm": 0
+  },
+  "sections": [
+    {
+      "heading": "5HVXOW\u0003",
+      "content": ""
+    },
+    {
+      "heading": "&DOHQGDU",
+      "content": "2\u0013\n2\u0013"
+    }
+  ]
+}

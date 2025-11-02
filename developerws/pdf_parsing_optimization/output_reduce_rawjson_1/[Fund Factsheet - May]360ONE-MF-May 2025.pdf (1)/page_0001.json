@@ -1,0 +1,48 @@
+{
+  "page_number": 1,
+  "title": "MONTHLY",
+  "subtitle": null,
+  "narrative_text": null,
+  "tables": [],
+  "charts": [],
+  "notes": null,
+  "error": "no_tables_or_charts",
+  "debug": {
+    "sent_image_path": null,
+    "sent_image_mime": "image/png",
+    "sent_image_bytes": 447654,
+    "image_px": [
+      0,
+      0
+    ],
+    "image_token_est": 0,
+    "tables_only": true,
+    "raw_model_text_omitted": true,
+    "local_raw_lines_count": 7,
+    "local_text_extracted": true,
+    "tables_from_llm": 0,
+    "charts_from_llm": 0
+  },
+  "sections": [
+    {
+      "heading": "MONTHLY",
+      "content": ""
+    },
+    {
+      "heading": "FACTSHEET",
+      "content": ""
+    },
+    {
+      "heading": "June 2025",
+      "content": ""
+    },
+    {
+      "heading": "June 2025",
+      "content": "Mutual Fund investments are subject to market risks, read all scheme related documents carefully."
+    },
+    {
+      "heading": "Page |",
+      "content": "1"
+    }
+  ]
+}

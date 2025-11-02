@@ -1,0 +1,78 @@
+{
+  "title": null,
+  "subtitle": null,
+  "narrative_text": null,
+  "tables": [
+    {
+      "type": "table",
+      "title": "Discontinuance Charge",
+      "headers": [
+        "",
+        "Annual Discontinuance Charge",
+        "Single Discontinuance Charge Premium"
+      ],
+      "rows": [
+        [
+          "1",
+          "Power of 25% (Annual) \nUpto Rs.6000/-",
+          "Power of Rs.500/-(Single) \nUpto Rs.6000/-"
+        ],
+        [
+          "2",
+          "Power of 15% (Annual) \nPremium of Rs.6000/-",
+          "Power of Rs.300/-(Single) \nPremium of Rs.6000/-"
+        ],
+        [
+          "3",
+          "Lower of 5% (Annual) \nPremium or Fund Value",
+          "Lower of 1% (Single) \nPremium or Fund Value"
+        ],
+        [
+          "4",
+          "Lower of 2% (Annual) \nPremium or Fund Value",
+          "Lower of 0.5% (Single) \nPremium or Fund Value"
+        ],
+        [
+          "5",
+          "NIL \nUpto Rs.6000/-",
+          "NIL \nUpto Rs.6000/-"
+        ]
+      ],
+      "page_number": 1
+    }
+  ],
+  "charts": [],
+  "page_number": 9,
+  "notes": null,
+  "debug": {
+    "sent_image_path": null,
+    "sent_image_mime": "image/png",
+    "sent_image_bytes": 365936,
+    "image_px": [
+      0,
+      0
+    ],
+    "image_token_est": 0,
+    "tables_only": true,
+    "raw_model_text_omitted": true,
+    "local_raw_lines_count": 21
+  },
+  "sections": [
+    {
+      "heading": "",
+      "content": "The table below gives the discontinuance charge applicable for limited and\nregular premium payment policies.\npolicy year\nduring the\nDiscontinuance\nCharges\nMiscellaneous\nRisk Bene\nMortality & other\nCharge\nAdministration\nPolicy\nCharge (FMC)\nFund Management\nThischargedependsonyearofdiscontinuanceandyourannualized premiumforlimitedandregularpremiumpolicies.Thereisnochargefrom5 policyyear.\nNIL\nbut not exceeding ` 1000\nPremium or Fund Value)\nLower of 5% x (Annual\nbut not exceeding ` 1500\nPremium or Fund Value)\nLower of 10% x (Annual\nbut not exceeding ` 2000\nPremium or Fund Value)\nLower of 15% x (Annual\nbut not exceeding ` 3000\nPremium or Fund Value)\nLower of 20% x (Annual\nge"
+    },
+    {
+      "heading": "Annual Premium\nup to ` 50,000",
+      "content": "have chosen.\ncancelling units proportionately from each of the fund(s) you\nadministration for your policy. This charge will be taken by\nsubject to prior approval from IRDAI and is subject to a cap of ` 500.\nchargeare guaranteed for the entire duration of the policy term.\nhave chosen. The mortality charge and other risk benefit\ncancelling units proportionately from each of the fund(s) you\nand other risk bene\nAny policy alteration request initiated by the Policyholder will attract a charge of ` 250 per request. The charge may be increased\nEvery month we levy a charge for providing you with the death\npremium. The charge will be deducted monthly to provide\nThis charge is a percentage of the annualized premium/single\nbe subject to the maximum cap as allowed by IRDAI\nfund management charge, which is charged daily. This charge will\nThe daily unit price is calculated allowing for deductions for the"
+    },
+    {
+      "heading": "Annual Premium\nabove ` 50,000",
+      "content": "our policy. This charge will be taken by"
+    },
+    {
+      "heading": "The table below gives the discontinuance charge applicable for single\npremium  payment  policies.\npolicy  year\nduring the\nDiscontinuance",
+      "content": "month.The percentage charge each year will be rounded to 2\nThe amount of the charge taken each month depends on your age\nThe charge may be increased with prior approval from IRDAI.\ndecimal places.\nThe policy administration charge is subject to a cap of ` 500 per\nand level of cover.\n0.50% p.a. for Discontinued Policy Fund\n1.35% p.a. of the fund value, charged daily.\nYear\n6 and above\nNIL\nbut not exceeding ` 1000\nPremium or Fund Value)\nLower of 0.5% x (Single\nbut not exceeding ` 1500\nPremium or Fund Value)\nLower of 1% x (Single\nbut not exceeding ` 2000\nPremium or Fund Value)\nLower of 1.5% x(Single\nbut not exceeding ` 3000\nPremium or Fund Value)\nLower of 2% x (Single"
+    }
+  ]
+}

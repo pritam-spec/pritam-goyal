@@ -1,0 +1,51 @@
+{
+  "title": null,
+  "subtitle": null,
+  "narrative_text": null,
+  "tables": [
+    {
+      "type": "table",
+      "title": "Rider Options",
+      "headers": [
+        "Rider",
+        "UIN",
+        "Scope of Benefits**"
+      ],
+      "rows": [
+        [
+          "HDFC Life Income Benefit on Accidental Disability Rider",
+          "101B013V03",
+          "A benefit equal to 1% of Rider Sum Assured per month for the next 10 years, in case of an Accidental Total Permanent Disability. There is no maturity benefit available under this rider."
+        ],
+        [
+          "HDFC Life Critical Illness Plus Rider",
+          "101B014V02",
+          "A lump sum benefit equal to the Rider Sum Assured shall be payable in case you are diagnosed with any of the 19 Critical Illnesses and survive for a period of 30 days following the diagnosis. There is no maturity benefit available under this rider."
+        ],
+        [
+          "HDFC Life Protect Plus Rider",
+          "101B016V01",
+          "A benefit as a proportion of the Rider Sum Assured shall be payable in case on accidental death or partial/total disability due to accident or if you are diagnosed with cancer as per the option chosen under this rider. No maturity benefit is payable under this rider."
+        ]
+      ],
+      "page_number": 1
+    }
+  ],
+  "charts": [],
+  "page_number": 1,
+  "notes": null,
+  "debug": {
+    "sent_image_path": null,
+    "sent_image_mime": "image/png",
+    "sent_image_bytes": 770512,
+    "image_px": [
+      0,
+      0
+    ],
+    "image_token_est": 0,
+    "tables_only": true,
+    "raw_model_text_omitted": true,
+    "local_raw_lines_count": 0
+  },
+  "sections": []
+}

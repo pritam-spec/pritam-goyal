@@ -1,0 +1,120 @@
+{
+  "page_number": 17,
+  "title": "DISCLAIMER",
+  "subtitle": "Disclaimer",
+  "narrative_text": null,
+  "tables": [],
+  "charts": [],
+  "notes": null,
+  "error": "no_tables_or_charts",
+  "debug": {
+    "sent_image_path": null,
+    "sent_image_mime": "image/png",
+    "sent_image_bytes": 223447,
+    "image_px": [
+      0,
+      0
+    ],
+    "image_token_est": 0,
+    "tables_only": true,
+    "raw_model_text_omitted": true,
+    "local_raw_lines_count": 24,
+    "local_filter_debug": {
+      "orig_sections": 22,
+      "filtered_sections": 22
+    },
+    "local_text_extracted": true,
+    "tables_from_llm": 0,
+    "charts_from_llm": 0
+  },
+  "sections": [
+    {
+      "heading": "DISCLAIMER",
+      "content": ""
+    },
+    {
+      "heading": "Disclaimer",
+      "content": ""
+    },
+    {
+      "heading": "The above commentary/opinions/in house views/strategy incorporated herein is provided solely to enhance the transparency",
+      "content": ""
+    },
+    {
+      "heading": "about the investment strategy / theme of the Scheme and should not be treated as endorsement of the views / opinions or as",
+      "content": ""
+    },
+    {
+      "heading": "an investment advice. The above commentary should not be construed as a research report or a recommendation to buy or sell",
+      "content": ""
+    },
+    {
+      "heading": "any security. The information / data herein alone is not sufficient and shouldn’t be used for the development or implementation",
+      "content": ""
+    },
+    {
+      "heading": "of an investment strategy. The above commentary has been prepared on the basis of information, which is already available in",
+      "content": ""
+    },
+    {
+      "heading": "publicly accessible media or developed through analysis of 360 ONE Mutual Fund. The information/ views / opinions provided is",
+      "content": ""
+    },
+    {
+      "heading": "for informative purpose only and may have ceased to be current by the time it may reach the recipient, which should be taken into",
+      "content": ""
+    },
+    {
+      "heading": "account before interpreting this commentary. The recipient should note and understand that the information provided above may",
+      "content": ""
+    },
+    {
+      "heading": "not contain all the material aspects relevant for making an investment decision and the stocks may or may not continue to form",
+      "content": ""
+    },
+    {
+      "heading": "part of the scheme’s portfolio in future. The decision of the Investment Manager may not always be profitable; as such decisions",
+      "content": ""
+    },
+    {
+      "heading": "are based on the prevailing market conditions and the understanding of the Investment Manager. Actual market movements may",
+      "content": ""
+    },
+    {
+      "heading": "vary from the anticipated trends. The statements made herein may include statements of future expectations and other forward-",
+      "content": ""
+    },
+    {
+      "heading": "looking statements that are based on our current views and assumptions and involve known and unknown risks and uncertainties",
+      "content": ""
+    },
+    {
+      "heading": "that could cause actual results, performance or events to differ materially from those expressed or implied in such statements.",
+      "content": ""
+    },
+    {
+      "heading": "This information is subject to change without any prior notice. The Company reserves the right to make modifications and al-",
+      "content": ""
+    },
+    {
+      "heading": "terations to this statement as may be required from time to time. Neither 360 ONE Mutual Fund / 360 ONE Asset Management",
+      "content": ""
+    },
+    {
+      "heading": "Limited, its associates, directors or representatives shall be liable for any damages whether direct or indirect, incidental, punitive",
+      "content": ""
+    },
+    {
+      "heading": "special or consequential including lost revenue or lost profits that may arise from or in connection with the use of the information.",
+      "content": ""
+    },
+    {
+      "heading": "June 2025",
+      "content": "Mutual Fund investments are subject to market risks, read all scheme related documents carefully."
+    },
+    {
+      "heading": "Page |",
+      "content": "16"
+    }
+  ]
+}

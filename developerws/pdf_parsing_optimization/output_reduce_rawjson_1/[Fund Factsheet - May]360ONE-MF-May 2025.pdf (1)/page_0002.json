@@ -1,0 +1,749 @@
+{
+  "title": "MONTHLY MARKET UPDATE",
+  "subtitle": "Macro Economy & Event Update",
+  "narrative_text": null,
+  "tables": [
+    {
+      "type": "table",
+      "title": "Macro-Economic Indicators",
+      "headers": [
+        "",
+        "May-25",
+        "Apr-25",
+        "Mar-25",
+        "Feb-25",
+        "Jan-25",
+        "Dec-24"
+      ],
+      "rows": [
+        [
+          "Two-wheeler sales (%YoY)",
+          "-16.7",
+          "11.4",
+          "-9.0",
+          "2.1",
+          "-8.8",
+          ""
+        ],
+        [
+          "Passenger car sales (%YoY)*",
+          "-5.9",
+          "-4.3",
+          "-8.3",
+          "-2.1",
+          "8.9",
+          ""
+        ],
+        [
+          "Credit Card Outstanding (% YoY)",
+          "10.6",
+          "10.6",
+          "11.2",
+          "13.0",
+          "15.6",
+          ""
+        ],
+        [
+          "Industrial Output (%YoY)",
+          "2.7",
+          "3.9",
+          "2.7",
+          "5.2",
+          "3.7",
+          ""
+        ],
+        [
+          "Manufacturing PMI",
+          "57.6",
+          "58.2",
+          "58.1",
+          "56.3",
+          "57.7",
+          "56.4"
+        ],
+        [
+          "Railway freight Container Service (%YoY)",
+          "",
+          "",
+          "",
+          "",
+          "0.3",
+          "1.3"
+        ],
+        [
+          "Energy Consumption (YoY)",
+          "-",
+          "2.2",
+          "6.7",
+          "-0.8",
+          "2.7",
+          "5.9"
+        ],
+        [
+          "Aviation Cargo (% YoY)",
+          "",
+          "11.5",
+          "3.8",
+          "-4.9",
+          "7.0",
+          "8.0"
+        ],
+        [
+          "CPI (%YoY)",
+          "",
+          "3.2",
+          "3.3",
+          "3.6",
+          "4.3",
+          "5.2"
+        ],
+        [
+          "WPI (%YoY)",
+          "",
+          "0.9",
+          "2.0",
+          "2.4",
+          "2.5",
+          "2.6"
+        ],
+        [
+          "Fiscal Deficit (% of full year target)",
+          "",
+          "11.9",
+          "100.5",
+          "85.8",
+          "74.5",
+          "58.2"
+        ],
+        [
+          "Trade Deficit ($ bn)",
+          "",
+          "-26.4",
+          "-21.5",
+          "-14.1",
+          "-23.1",
+          "-20.7"
+        ],
+        [
+          "Air passenger traffic: Domestic (% YoY)",
+          "",
+          "8.5",
+          "8.8",
+          "11.0",
+          "11.3",
+          "8.2"
+        ],
+        [
+          "GST collections (Rs. Bn)",
+          "2011",
+          "2367",
+          "1961",
+          "1836",
+          "1955",
+          "1769"
+        ],
+        [
+          "E-way Bill (Mn)",
+          "-",
+          "119.3",
+          "124.5",
+          "111.6",
+          "118.1",
+          "112.0"
+        ],
+        [
+          "Direct tax collection (% YoY)",
+          "",
+          "-3.0",
+          "15.2",
+          "54.3",
+          "-11.6",
+          "12.5"
+        ],
+        [
+          "Credit Growth (%YoY)",
+          "",
+          "9.9",
+          "11.0",
+          "12.3",
+          "12.5",
+          "11.2"
+        ],
+        [
+          "Industry Credit (%YoY)",
+          "",
+          "6.6",
+          "7.8",
+          "7.1",
+          "8.0",
+          "7.2"
+        ],
+        [
+          "Deposits (%YoY)",
+          "",
+          "9.9",
+          "10.3",
+          "12.0",
+          "12.1",
+          "9.8"
+        ],
+        [
+          "Currency in circulation (%YoY)",
+          "",
+          "",
+          "5.8",
+          "5.6",
+          "5.3",
+          "5.9"
+        ],
+        [
+          "Forex reserves ($bn)",
+          "693",
+          "688",
+          "668",
+          "639",
+          "631",
+          "636"
+        ],
+        [
+          "INR/USD (month end)",
+          "85.5",
+          "85.1",
+          "85.6",
+          "87.4",
+          "86.6",
+          "85.6"
+        ],
+        [
+          "10Y G-Sec yield (%)",
+          "",
+          "",
+          "6.4",
+          "6.6",
+          "6.7",
+          "6.8"
+        ],
+        [
+          "Net FPI flows: Equity ($bn)",
+          "2.3",
+          "0.5",
+          "-0.4",
+          "-4.0",
+          "-9.0",
+          "1.8"
+        ],
+        [
+          "Net FPI flows: Debt ($bn)",
+          "-2.0",
+          "-3.0",
+          "3.7",
+          "1.4",
+          "1.4",
+          "1.6"
+        ],
+        [
+          "DII ($bn)",
+          "",
+          "3.3",
+          "4.3",
+          "7.4",
+          "10.0",
+          "4.0"
+        ]
+      ],
+      "page_number": 1
+    }
+  ],
+  "charts": [
+    {
+      "type": "chart",
+      "chart_type": "bar",
+      "title": "Nifty EPS",
+      "x_axis": {
+        "label": "Fiscal Year",
+        "values": [
+          "FY02",
+          "FY03",
+          "FY04",
+          "FY05",
+          "FY06",
+          "FY07",
+          "FY08",
+          "FY09",
+          "FY10",
+          "FY11",
+          "FY12",
+          "FY13",
+          "FY14",
+          "FY15",
+          "FY16",
+          "FY17",
+          "FY18",
+          "FY19",
+          "FY20",
+          "FY21",
+          "FY22",
+          "FY23",
+          "FY24",
+          "FY25E",
+          "FY26E"
+        ]
+      },
+      "y_axis": {
+        "label": "EPS",
+        "values": [
+          78,
+          92,
+          131,
+          169,
+          184,
+          235,
+          281,
+          251,
+          267,
+          315,
+          348,
+          369,
+          405,
+          416,
+          397,
+          427,
+          451,
+          483,
+          478,
+          542,
+          728,
+          807,
+          987,
+          1110,
+          1268
+        ]
+      },
+      "data_series": [
+        {
+          "name": null,
+          "values": [
+            78,
+            92,
+            131,
+            169,
+            184,
+            235,
+            281,
+            251,
+            267,
+            315,
+            348,
+            369,
+            405,
+            416,
+            397,
+            427,
+            451,
+            483,
+            478,
+            542,
+            728,
+            807,
+            987,
+            1110,
+            1268
+          ]
+        }
+      ],
+      "page_number": 1
+    }
+  ],
+  "page_number": 2,
+  "notes": null,
+  "debug": {
+    "sent_image_path": null,
+    "sent_image_mime": "image/png",
+    "sent_image_bytes": 249857,
+    "image_px": [
+      0,
+      0
+    ],
+    "image_token_est": 0,
+    "tables_only": true,
+    "raw_model_text_omitted": true,
+    "local_raw_lines_count": 230,
+    "local_text_extracted": true,
+    "tables_from_llm": 1,
+    "charts_from_llm": 1
+  },
+  "sections": [
+    {
+      "heading": "MONTHLY MARKET UPDATE",
+      "content": ""
+    },
+    {
+      "heading": "Macro Economy & Event Update",
+      "content": ""
+    },
+    {
+      "heading": "Macro-Economic Indicators",
+      "content": ""
+    },
+    {
+      "heading": "May-25",
+      "content": ""
+    },
+    {
+      "heading": "Apr-25",
+      "content": ""
+    },
+    {
+      "heading": "Mar-25",
+      "content": ""
+    },
+    {
+      "heading": "Feb-25",
+      "content": ""
+    },
+    {
+      "heading": "Jan-25",
+      "content": ""
+    },
+    {
+      "heading": "Dec-24",
+      "content": ""
+    },
+    {
+      "heading": "Consumption",
+      "content": "-16.7\n11.4\n-9.0\n2.1\n-8.8"
+    },
+    {
+      "heading": "Two-wheeler sales (%YoY)",
+      "content": "-5.9\n-4.3\n-8.3\n-2.1\n8.9"
+    },
+    {
+      "heading": "Passenger car sales (%YoY)*",
+      "content": "10.6\n10.6\n11.2\n13.0\n15.6"
+    },
+    {
+      "heading": "Credit Card Outstanding (% YoY)",
+      "content": ""
+    },
+    {
+      "heading": "Industrial Sector",
+      "content": "2.7\n3.9\n2.7\n5.2\n3.7"
+    },
+    {
+      "heading": "Industrial Output (%YoY)",
+      "content": "57.6\n58.2\n58.1\n56.3\n57.7\n56.4"
+    },
+    {
+      "heading": "Manufacturing PMI",
+      "content": "0.3\n1.3"
+    },
+    {
+      "heading": "Railway freight Container Service (%YoY)",
+      "content": "2.2\n6.7\n-0.8\n2.7\n5.9"
+    },
+    {
+      "heading": "Energy Consumption (YoY)",
+      "content": "11.5\n3.8\n-4.9\n7.0\n8.0"
+    },
+    {
+      "heading": "Aviation Cargo (% YoY)",
+      "content": ""
+    },
+    {
+      "heading": "Inflation",
+      "content": "3.2\n3.3\n3.6\n4.3\n5.2"
+    },
+    {
+      "heading": "CPI (%YoY)",
+      "content": "0.9\n2.0\n2.4\n2.5\n2.6"
+    },
+    {
+      "heading": "WPI (%YoY)",
+      "content": ""
+    },
+    {
+      "heading": "Deficit",
+      "content": "11.9\n100.5\n85.8\n74.5\n58.2\nFiscal Deficit (% of full year target)\n-26.4\n-21.5\n-14.1\n-23.1\n-20.7"
+    },
+    {
+      "heading": "Trade Deficit ($ bn)",
+      "content": ""
+    },
+    {
+      "heading": "Services",
+      "content": "8.5\n8.8\n11.0\n11.3\n8.2"
+    },
+    {
+      "heading": "Air passenger traffic: Domestic (% YoY)",
+      "content": "2011\n2367\n1961\n1836\n1955\n1769"
+    },
+    {
+      "heading": "GST collections (Rs. Bn)",
+      "content": "119.3\n124.5\n111.6\n118.1\n112.0"
+    },
+    {
+      "heading": "E-way Bill (Mn)",
+      "content": "-3.0\n15.2\n54.3\n-11.6\n12.5"
+    },
+    {
+      "heading": "Direct tax collection (% YoY)",
+      "content": ""
+    },
+    {
+      "heading": "Money & Banking",
+      "content": "9.9\n11.0\n12.3\n12.5\n11.2"
+    },
+    {
+      "heading": "Credit Growth (%YoY)",
+      "content": "6.6\n7.8\n7.1\n8.0\n7.2"
+    },
+    {
+      "heading": "Industry Credit (%YoY)",
+      "content": "9.9\n10.3\n12.0\n12.1\n9.8"
+    },
+    {
+      "heading": "Deposits (%YoY)",
+      "content": "5.8\n5.6\n5.3\n5.9"
+    },
+    {
+      "heading": "Currency in circulation (%YoY)",
+      "content": "693\n688\n668\n639\n631\n636"
+    },
+    {
+      "heading": "Forex reserves ($bn)",
+      "content": "85.5\n85.1\n85.6\n87.4\n86.6\n85.6"
+    },
+    {
+      "heading": "INR/USD (month end)",
+      "content": "6.4\n6.6\n6.7\n6.7\n6.8"
+    },
+    {
+      "heading": "10Y G-Sec yield (%)",
+      "content": ""
+    },
+    {
+      "heading": "Flows",
+      "content": "2.3\n0.5\n-0.4\n-4.0\n-9.0\n1.8"
+    },
+    {
+      "heading": "Net FPI flows: Equity ($bn)",
+      "content": "-2.0\n-3.0\n3.7\n1.4\n1.4\n1.6"
+    },
+    {
+      "heading": "Net FPI flows: Debt ($bn)",
+      "content": "3.3\n4.3\n7.4\n10.0\n4.0"
+    },
+    {
+      "heading": "DII ($bn)",
+      "content": ""
+    },
+    {
+      "heading": "Nifty EPS",
+      "content": ""
+    },
+    {
+      "heading": "1268",
+      "content": ""
+    },
+    {
+      "heading": "1110",
+      "content": ""
+    },
+    {
+      "heading": "987",
+      "content": ""
+    },
+    {
+      "heading": "807",
+      "content": ""
+    },
+    {
+      "heading": "728",
+      "content": ""
+    },
+    {
+      "heading": "542",
+      "content": ""
+    },
+    {
+      "heading": "483",
+      "content": ""
+    },
+    {
+      "heading": "478",
+      "content": ""
+    },
+    {
+      "heading": "451",
+      "content": ""
+    },
+    {
+      "heading": "427",
+      "content": ""
+    },
+    {
+      "heading": "416",
+      "content": ""
+    },
+    {
+      "heading": "405",
+      "content": ""
+    },
+    {
+      "heading": "397",
+      "content": ""
+    },
+    {
+      "heading": "369",
+      "content": ""
+    },
+    {
+      "heading": "348",
+      "content": ""
+    },
+    {
+      "heading": "315",
+      "content": ""
+    },
+    {
+      "heading": "281",
+      "content": ""
+    },
+    {
+      "heading": "251",
+      "content": ""
+    },
+    {
+      "heading": "247",
+      "content": ""
+    },
+    {
+      "heading": "236",
+      "content": ""
+    },
+    {
+      "heading": "184",
+      "content": ""
+    },
+    {
+      "heading": "169",
+      "content": ""
+    },
+    {
+      "heading": "131",
+      "content": ""
+    },
+    {
+      "heading": "92",
+      "content": ""
+    },
+    {
+      "heading": "78",
+      "content": ""
+    },
+    {
+      "heading": "FY02",
+      "content": ""
+    },
+    {
+      "heading": "FY03",
+      "content": ""
+    },
+    {
+      "heading": "FY04",
+      "content": ""
+    },
+    {
+      "heading": "FY05",
+      "content": ""
+    },
+    {
+      "heading": "FY06",
+      "content": ""
+    },
+    {
+      "heading": "FY07",
+      "content": ""
+    },
+    {
+      "heading": "FY08",
+      "content": ""
+    },
+    {
+      "heading": "FY09",
+      "content": ""
+    },
+    {
+      "heading": "FY10",
+      "content": ""
+    },
+    {
+      "heading": "FY11",
+      "content": ""
+    },
+    {
+      "heading": "FY12",
+      "content": ""
+    },
+    {
+      "heading": "FY13",
+      "content": ""
+    },
+    {
+      "heading": "FY14",
+      "content": ""
+    },
+    {
+      "heading": "FY15",
+      "content": ""
+    },
+    {
+      "heading": "FY16",
+      "content": ""
+    },
+    {
+      "heading": "FY17",
+      "content": ""
+    },
+    {
+      "heading": "FY18",
+      "content": ""
+    },
+    {
+      "heading": "FY19",
+      "content": ""
+    },
+    {
+      "heading": "FY20",
+      "content": ""
+    },
+    {
+      "heading": "FY21",
+      "content": ""
+    },
+    {
+      "heading": "FY22",
+      "content": ""
+    },
+    {
+      "heading": "FY23",
+      "content": ""
+    },
+    {
+      "heading": "FY24",
+      "content": ""
+    },
+    {
+      "heading": "FY25E FY26E",
+      "content": "Source: Motilal Oswal Financial Services (MOFS). Future estimates are taken as the average values provided by MOFS, UBS, Kotak Securities.\n*Excluding TATA Motors."
+    },
+    {
+      "heading": "June 2025",
+      "content": "Mutual Fund investments are subject to market risks, read all scheme related documents carefully."
+    },
+    {
+      "heading": "Page |",
+      "content": "1"
+    }
+  ]
+}

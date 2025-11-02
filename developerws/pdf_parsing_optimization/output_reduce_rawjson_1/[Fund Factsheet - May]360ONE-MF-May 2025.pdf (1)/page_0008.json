@@ -1,0 +1,1035 @@
+{
+  "title": "360 ONE QUANT FUND",
+  "subtitle": "(An open-ended equity scheme investing based on quant theme)",
+  "narrative_text": null,
+  "tables": [
+    {
+      "type": "table",
+      "title": "Portfolio as on May 31, 2025",
+      "headers": [
+        "Company Name",
+        "Sector",
+        "% to Net Assets"
+      ],
+      "rows": [
+        [
+          "Equity & Equity Related Total",
+          "",
+          ""
+        ],
+        [
+          "Bharti Enterprises Limited",
+          "Capital Goods",
+          "3.50"
+        ],
+        [
+          "Schaeffler India Limited",
+          "Automobile and Auto Components",
+          "3.45"
+        ],
+        [
+          "Coforge Limited",
+          "Information Technology",
+          "3.34"
+        ],
+        [
+          "UNO Minda Limited",
+          "Automobile and Auto Components",
+          "3.23"
+        ],
+        [
+          "GlaxoSmithKline Pharmaceuticals Limited",
+          "Healthcare",
+          "3.19"
+        ],
+        [
+          "Hindustan Aeronautics Limited",
+          "Capital Goods",
+          "3.19"
+        ],
+        [
+          "HDFC Asset Management Company Limited",
+          "Financial Services",
+          "3.14"
+        ],
+        [
+          "Dr. Reddy's Laboratories Limited",
+          "Healthcare",
+          "3.12"
+        ],
+        [
+          "Cholamandalam Investment and Finance Company Limited",
+          "Financial Services",
+          "3.08"
+        ],
+        [
+          "Bajaj Finance Limited",
+          "Financial Services",
+          "3.04"
+        ],
+        [
+          "Persistent Systems Limited",
+          "Information Technology",
+          "3.03"
+        ],
+        [
+          "SBI Cards and Payment Services Limited",
+          "Financial Services",
+          "3.01"
+        ],
+        [
+          "Tech Mahindra Limited",
+          "Information Technology",
+          "2.99"
+        ],
+        [
+          "HDFC Life Insurance Company Limited",
+          "Financial Services",
+          "2.99"
+        ],
+        [
+          "Vedanta Limited",
+          "Metals & Mining",
+          "2.98"
+        ],
+        [
+          "Crompton Greaves Consumer Electricals Limited",
+          "Consumer Durables",
+          "2.97"
+        ],
+        [
+          "Bajaj Finserv Limited",
+          "Financial Services",
+          "2.97"
+        ],
+        [
+          "Wipro Limited",
+          "Information Technology",
+          "2.95"
+        ],
+        [
+          "Muthoot Finance Limited",
+          "Financial Services",
+          "2.93"
+        ],
+        [
+          "Page Industries Limited",
+          "Textiles",
+          "2.90"
+        ],
+        [
+          "Abbott India Limited",
+          "Healthcare",
+          "2.90"
+        ],
+        [
+          "HDFC Bank Limited",
+          "Financial Services",
+          "2.89"
+        ],
+        [
+          "Marico Limited",
+          "Fast Moving Consumer Goods",
+          "2.88"
+        ],
+        [
+          "Power Finance Corporation Limited",
+          "Financial Services",
+          "2.86"
+        ],
+        [
+          "Petronet LNG Limited",
+          "Oil Gas & Consumable Fuels",
+          "2.80"
+        ],
+        [
+          "United Spirits Limited",
+          "Fast Moving Consumer Goods",
+          "2.79"
+        ],
+        [
+          "Eicher Motors Limited",
+          "Automobile and Auto Components",
+          "2.74"
+        ],
+        [
+          "SRF Limited",
+          "Chemicals",
+          "2.72"
+        ],
+        [
+          "UPL Limited",
+          "Chemicals",
+          "2.68"
+        ],
+        [
+          "Quikjet Networks Limited",
+          "Consumer Services",
+          "2.62"
+        ],
+        [
+          "Varun Beverages Limited",
+          "Fast Moving Consumer Goods",
+          "2.60"
+        ],
+        [
+          "Dixon Technologies (India) Limited",
+          "Consumer Durables",
+          "2.57"
+        ],
+        [
+          "Torrent Pharmaceuticals Limited",
+          "Healthcare",
+          "1.25"
+        ],
+        [
+          "Hindustan Zinc Limited",
+          "Metals & Mining",
+          "1.00"
+        ],
+        [
+          "Mazagon Dock Shipbuilders Limited",
+          "Capital Goods",
+          "0.86"
+        ],
+        [
+          "Hindustan Petroleum Corporation Limited",
+          "Oil Gas & Consumable Fuels",
+          "0.48"
+        ],
+        [
+          "REC Limited",
+          "Financial Services",
+          "0.35"
+        ],
+        [
+          "Sub Total",
+          "",
+          "99.01"
+        ],
+        [
+          "Net Receivables / (Payables)",
+          "",
+          "0.99"
+        ],
+        [
+          "Portfolio Total",
+          "",
+          "100.00"
+        ]
+      ],
+      "page_number": 1
+    },
+    {
+      "type": "table",
+      "title": "Sector Allocation",
+      "headers": [
+        "Sector",
+        "Percentage"
+      ],
+      "rows": [
+        [
+          "Financial Services",
+          "32.23%"
+        ],
+        [
+          "Information Technology",
+          "12.32%"
+        ],
+        [
+          "Healthcare",
+          "10.46%"
+        ],
+        [
+          "Automobile and Auto Components",
+          "9.42%"
+        ],
+        [
+          "Chemicals",
+          "8.37%"
+        ],
+        [
+          "Fast Moving Consumer Goods",
+          "8.28%"
+        ],
+        [
+          "Capital Goods",
+          "7.54%"
+        ],
+        [
+          "Metals & Mining",
+          "3.98%"
+        ],
+        [
+          "Oil Gas & Consumable Fuels",
+          "3.28%"
+        ],
+        [
+          "Textiles",
+          "2.90%"
+        ],
+        [
+          "Consumer Services",
+          "2.62%"
+        ],
+        [
+          "Consumer Durables",
+          "2.57%"
+        ]
+      ],
+      "page_number": 1
+    },
+    {
+      "type": "table",
+      "title": "Market Capitalisation wise Exposure",
+      "headers": [
+        "Category",
+        "Percentage"
+      ],
+      "rows": [
+        [
+          "Mid Cap",
+          "51.70%"
+        ],
+        [
+          "Large Cap",
+          "47.31%"
+        ]
+      ],
+      "page_number": 1
+    },
+    {
+      "type": "table",
+      "title": "Scheme Performance",
+      "headers": [
+        "Scheme Performance",
+        "Last 1 year",
+        "PTP (₹)",
+        "Last 3 years",
+        "PTP (₹)",
+        "Last 5 years",
+        "PTP (₹)",
+        "Since Inception",
+        "PTP (₹)"
+      ],
+      "rows": [
+        [
+          "360 ONE Quant Fund - Reg - Growth",
+          "8.42%",
+          "10,842",
+          "26.94%",
+          "20,469",
+          "-",
+          "-",
+          "20.09%",
+          "18,993"
+        ],
+        [
+          "360 ONE Quant Fund - Dir - Growth",
+          "9.92%",
+          "10,992",
+          "28.63%",
+          "21,344",
+          "-",
+          "-",
+          "21.67%",
+          "19,826"
+        ],
+        [
+          "Benchmark*",
+          "8.88%",
+          "10,888",
+          "17.56%",
+          "16,255",
+          "-",
+          "-",
+          "14.07%",
+          "15,869"
+        ],
+        [
+          "Additional Benchmark**",
+          "11.33%",
+          "11,133",
+          "14.55%",
+          "15,195",
+          "-",
+          "-",
+          "15.94%",
+          "16,641"
+        ]
+      ],
+      "page_number": 1
+    },
+    {
+      "type": "table",
+      "title": "SIP - If you had invested ₹10,000 every month",
+      "headers": [
+        "Scheme / Benchmark",
+        "Last 1 year",
+        "Last 3 years",
+        "Last 5 years",
+        "Since Inception"
+      ],
+      "rows": [
+        [
+          "Total Amount Invested (₹)",
+          "1,20,000",
+          "3,60,000",
+          "NA",
+          "4,20,000"
+        ],
+        [
+          "Total Value as on May 31, 2025 (₹)",
+          "1,29,623",
+          "5,18,150",
+          "NA",
+          "6,33,599"
+        ],
+        [
+          "Returns %",
+          "5.72%",
+          "25.22%",
+          "NA",
+          "24.22%"
+        ],
+        [
+          "Total Value of Benchmark: BSE 200 TRI (₹)",
+          "1,23,191",
+          "4,59,280",
+          "NA",
+          "5,53,094"
+        ],
+        [
+          "Benchmark: BSE 200 TRI %",
+          "5.03%",
+          "16.52%",
+          "NA",
+          "15.94%"
+        ],
+        [
+          "Total Value of Additional Benchmark: BSE Sensex TRI (₹)",
+          "1,24,410",
+          "4,47,561",
+          "NA",
+          "5,29,574"
+        ],
+        [
+          "Additional Benchmark: BSE Sensex TRI %",
+          "6.97%",
+          "13.76%",
+          "NA",
+          "14.31%"
+        ]
+      ],
+      "page_number": 1
+    },
+    {
+      "type": "table",
+      "title": "Volatility Measures",
+      "headers": [
+        "",
+        "Fund",
+        "Benchmark"
+      ],
+      "rows": [
+        [
+          "Std. Dev (Annualised)",
+          "18.03%",
+          "14.25%"
+        ],
+        [
+          "Sharpe Ratio",
+          "1.10",
+          "0.80"
+        ],
+        [
+          "Portfolio Beta",
+          "1.21",
+          "1.00"
+        ],
+        [
+          "R Squared",
+          "0.92",
+          "NA"
+        ],
+        [
+          "Treynor",
+          "1.36",
+          "0.95"
+        ]
+      ],
+      "page_number": 1
+    }
+  ],
+  "charts": [
+    {
+      "type": "chart",
+      "chart_type": "line",
+      "title": "NAV Movement (Since Inception) Rebased to 100",
+      "x_axis": {
+        "label": null,
+        "values": [
+          "Sep-21",
+          "Apr-22",
+          "Jul-22",
+          "Jan-23",
+          "Apr-23",
+          "Oct-23",
+          "Mar-24",
+          "Jul-24",
+          "Dec-24",
+          "May-25"
+        ]
+      },
+      "y_axis": {
+        "label": null,
+        "values": [
+          100,
+          110,
+          120,
+          130,
+          140,
+          150,
+          160,
+          170,
+          180,
+          190,
+          200
+        ]
+      },
+      "data_series": [
+        {
+          "name": "360 ONE Quant Fund",
+          "values": [
+            100,
+            105,
+            110,
+            125,
+            135,
+            145,
+            155,
+            165,
+            175,
+            190
+          ]
+        },
+        {
+          "name": "BSE 200 TRI",
+          "values": [
+            100,
+            103,
+            108,
+            120,
+            130,
+            140,
+            148,
+            155,
+            165,
+            180
+          ]
+        }
+      ],
+      "page_number": 1
+    }
+  ],
+  "page_number": 8,
+  "notes": null,
+  "debug": {
+    "sent_image_path": null,
+    "sent_image_mime": "image/png",
+    "sent_image_bytes": 623899,
+    "image_px": [
+      0,
+      0
+    ],
+    "image_token_est": 0,
+    "tables_only": true,
+    "raw_model_text_omitted": true,
+    "local_raw_lines_count": 429,
+    "local_text_extracted": true,
+    "tables_from_llm": 6,
+    "charts_from_llm": 1
+  },
+  "sections": [
+    {
+      "heading": "360 ONE QUANT FUND",
+      "content": ""
+    },
+    {
+      "heading": "(An open-ended equity scheme investing based on quant theme)",
+      "content": ""
+    },
+    {
+      "heading": "Investment Objective",
+      "content": ""
+    },
+    {
+      "heading": "Portfolio as on May 31, 2025",
+      "content": ""
+    },
+    {
+      "heading": "Sector Allocation^^",
+      "content": ""
+    },
+    {
+      "heading": "% to Net",
+      "content": "The investment objective of the scheme is to"
+    },
+    {
+      "heading": "Company Name",
+      "content": ""
+    },
+    {
+      "heading": "Sector",
+      "content": ""
+    },
+    {
+      "heading": "Financial Services",
+      "content": ""
+    },
+    {
+      "heading": "27.27%",
+      "content": ""
+    },
+    {
+      "heading": "Assets",
+      "content": "generate long term capital appreciation for"
+    },
+    {
+      "heading": "Information Technology",
+      "content": ""
+    },
+    {
+      "heading": "12.32%",
+      "content": "investors from a portfolio of equity and equity"
+    },
+    {
+      "heading": "Equity & Equity Related Total",
+      "content": "Bharat Electronics Limited\nCapital Goods\n3.50\nrelated securities based on a quant theme."
+    },
+    {
+      "heading": "Healthcare",
+      "content": ""
+    },
+    {
+      "heading": "10.46%",
+      "content": "Automobile and Auto\nHowever, there can be no assurance or guarantee"
+    },
+    {
+      "heading": "Automobile and Auto Components",
+      "content": "Schaeffler India Limited\n3.45"
+    },
+    {
+      "heading": "9.42%",
+      "content": "Components\nthat the investment objective of the Scheme would"
+    },
+    {
+      "heading": "Chemicals",
+      "content": ""
+    },
+    {
+      "heading": "8.37%",
+      "content": "Coforge Limited\nInformation Technology\n3.34\nbe achieved.\nAutomobile and Auto"
+    },
+    {
+      "heading": "Fast Moving Consumer Goods",
+      "content": ""
+    },
+    {
+      "heading": "8.28%",
+      "content": "UNO Minda Limited\n3.23\nComponents"
+    },
+    {
+      "heading": "Fund Manager",
+      "content": ""
+    },
+    {
+      "heading": "Mr. Ashish Ongari",
+      "content": ""
+    },
+    {
+      "heading": "Capital Goods",
+      "content": ""
+    },
+    {
+      "heading": "7.54%",
+      "content": "GlaxoSmithKline Pharmaceuticals Limited\nHealthcare\n3.19"
+    },
+    {
+      "heading": "Metals & Mining",
+      "content": ""
+    },
+    {
+      "heading": "3.99%",
+      "content": "Hindustan Aeronautics Limited\nCapital Goods\n3.19\nMr. Ashish has overall six years of experience in"
+    },
+    {
+      "heading": "Oil Gas & Consumable Fuels",
+      "content": ""
+    },
+    {
+      "heading": "3.27%",
+      "content": "HDFC Asset Management Company Limited\nFinancial Services\n3.14\nfinancial services, specializing in algorithmic trading\nDivi's Laboratories Limited\nHealthcare\n3.12"
+    },
+    {
+      "heading": "Textiles",
+      "content": ""
+    },
+    {
+      "heading": "2.90%",
+      "content": "and quantitative research. He holds a B.Tech from\nCholamandalam Investment and Finance\nNITK, Surathkal, and has previously worked as"
+    },
+    {
+      "heading": "Consumer Services",
+      "content": ""
+    },
+    {
+      "heading": "2.62%",
+      "content": "Financial Services\n3.08\nCompany Ltd\na trader at Capitalmind and a quant analyst at"
+    },
+    {
+      "heading": "Consumer Durables",
+      "content": ""
+    },
+    {
+      "heading": "2.57%",
+      "content": "Bajaj Finance Limited\nFinancial Services\n3.04\nInvestmint. His expertise lies in factor investing,\nPersistent Systems Limited\nInformation Technology\n3.03\n0%\n5%\n10%\n15%\n20%\n25%\n30%\nsystematic trading, and portfolio optimization.\nSBI Cards and Payment Services Limited\nFinancial Services\n3.01\n^^Sector allocation as per AMFI classification\nTech Mahindra Limited\nInformation Technology\n2.99"
+    },
+    {
+      "heading": "Fund Details",
+      "content": "HDFC Life Insurance Company Limited\nFinancial Services\n2.99"
+    },
+    {
+      "heading": "Market Capitalisation wise Exposure^",
+      "content": ": November 29, 2021"
+    },
+    {
+      "heading": "Date of Allotment",
+      "content": "Vedanta Limited\nMetals & Mining\n2.98\n: -"
+    },
+    {
+      "heading": "Bloomberg Code",
+      "content": "Coromandel International Limited\nChemicals\n2.97\n: BSE 200 TRI"
+    },
+    {
+      "heading": "Benchmark Index",
+      "content": "Bajaj Finserv Limited\nFinancial Services\n2.97\nMid Cap\n: Regular & Direct"
+    },
+    {
+      "heading": "Plans Offered",
+      "content": "Large Cap\nWipro Limited\nInformation Technology\n2.95\n51.70%\n: Growth & IDCW"
+    },
+    {
+      "heading": "Options Offered",
+      "content": "47.31%\nMuthoot Finance Limited\nFinancial Services\n2.93\n: `1,000 and in multiples of"
+    },
+    {
+      "heading": "Minimum Application",
+      "content": "Page Industries Limited\nTextiles\n2.90"
+    },
+    {
+      "heading": "New Purchase",
+      "content": "`1 thereafter\nAbbott India Limited\nHealthcare\n2.90\nAdditional Purchase : `1,000 and in multiples of\nHDFC Bank Limited\nFinancial Services\n2.89\n`1 thereafter\nFast Moving Consumer\nMarico Limited\n2.88\n: `1,000 per instalment for"
+    },
+    {
+      "heading": "Weekly SIP Option*",
+      "content": "Goods\na minimum period of 6\nPower Finance Corporation Limited\nFinancial Services\n2.86\nweeks - any business\nPetronet LNG Limited\nOil Gas & Consumable Fuels\n2.80\nday between Monday to\nFast Moving Consumer\nUnited Spirits Limited\n2.79\nFriday. Default day will be\nGoods\nAutomobile and Auto\nTuesday.\na. Large Cap Companies: 1st -100th company in terms of full market capitalization\nEicher Motors Limited\n2.74\nb. Mid Cap Companies: 101st -250th company in terms of full market capitalization\nComponents\n: `1,000 per instalment for"
+    },
+    {
+      "heading": "Fortnightly",
+      "content": "c. Small Cap Companies : 251st company onwards in terms of full market\nSRF Limited\nChemicals\n2.72\na minimum period of 6"
+    },
+    {
+      "heading": "SIP Option*",
+      "content": "capitalization The consolidated list of stocks in terms of full market capitalization\nUPL Limited\nChemicals\n2.68\nfortnights - 2nd and 16th\nis as per the list uploaded by AMFI, in terms of clause 2.7.1 of SEBI Master Circular\nof every month\nJubilant Foodworks Limited\nConsumer Services\n2.62\nSEBI/HO/IMD/IMD-PoD-1/P/CIR/2024/90 dated June 27, 2024.\nFast Moving Consumer\n: `1,000 per instalment for"
+    },
+    {
+      "heading": "Monthly SIP Option",
+      "content": "^As of May 31, 2025\nVarun Beverages Limited\n2.60\nGoods\na minimum period of 6\nNAV Movement (Since Inception) Rebased to 100\nDixon Technologies (India) Limited\nConsumer Durables\n2.57\nmonths - Any date 1st to\nTorrent Pharmaceuticals Limited\nHealthcare\n1.25\n28th (Default – 7th of every\nHindustan Zinc Limited\nMetals & Mining\n1.00\nmonth)\n360 One Quant Fund - Reg - Growth"
+    },
+    {
+      "heading": "BSE 200 TRI",
+      "content": "Mazagon Dock Shipbuilders Limited\nCapital Goods\n0.86\nQuarterly SIP Option : `1,000 per instalment for"
+    },
+    {
+      "heading": "220",
+      "content": "a minimum period of 6\nHindustan Petroleum Corporation Limited\nOil Gas & Consumable Fuels\n0.48"
+    },
+    {
+      "heading": "200",
+      "content": "quarters- Any date 1st to\nREC Limited\nFinancial Services\n0.35"
+    },
+    {
+      "heading": "180",
+      "content": "28th (Default – 7th)"
+    },
+    {
+      "heading": "Sub Total",
+      "content": ""
+    },
+    {
+      "heading": "99.01",
+      "content": ""
+    },
+    {
+      "heading": "160",
+      "content": ": NIL"
+    },
+    {
+      "heading": "Entry Load",
+      "content": ""
+    },
+    {
+      "heading": "Net Receivables / (Payables)",
+      "content": ""
+    },
+    {
+      "heading": "0.99",
+      "content": ""
+    },
+    {
+      "heading": "140",
+      "content": ": 1% - if redeemed/switched"
+    },
+    {
+      "heading": "Exit Load",
+      "content": ""
+    },
+    {
+      "heading": "Portfolio Total",
+      "content": ""
+    },
+    {
+      "heading": "100.00",
+      "content": ""
+    },
+    {
+      "heading": "120",
+      "content": "out, on or before 12 onths"
+    },
+    {
+      "heading": "100",
+      "content": "from the date of allotment\n: D-Mat Option Available"
+    },
+    {
+      "heading": "80",
+      "content": ""
+    },
+    {
+      "heading": "Dematerialization",
+      "content": ""
+    },
+    {
+      "heading": "Nov-21",
+      "content": ""
+    },
+    {
+      "heading": "Apr-22",
+      "content": ""
+    },
+    {
+      "heading": "Sep-22",
+      "content": ""
+    },
+    {
+      "heading": "Jan-23",
+      "content": ""
+    },
+    {
+      "heading": "Jun-23",
+      "content": ""
+    },
+    {
+      "heading": "Oct-23",
+      "content": ""
+    },
+    {
+      "heading": "Mar-24",
+      "content": ""
+    },
+    {
+      "heading": "Jul-24",
+      "content": ""
+    },
+    {
+      "heading": "Dec-24",
+      "content": ""
+    },
+    {
+      "heading": "May-25",
+      "content": ""
+    },
+    {
+      "heading": "Portfolio Turnover",
+      "content": ": 1.12 times"
+    },
+    {
+      "heading": "Ratio",
+      "content": "*Weekly and Fortnightly SIP frequencies are not"
+    },
+    {
+      "heading": "Scheme Performance",
+      "content": "available on BSE STAR MF Platform"
+    },
+    {
+      "heading": "Scheme Performance",
+      "content": ""
+    },
+    {
+      "heading": "Last 1 year",
+      "content": ""
+    },
+    {
+      "heading": "PTP (`)",
+      "content": ""
+    },
+    {
+      "heading": "Last 3 years",
+      "content": ""
+    },
+    {
+      "heading": "PTP (`)",
+      "content": ""
+    },
+    {
+      "heading": "Last 5 years",
+      "content": ""
+    },
+    {
+      "heading": "PTP (`)",
+      "content": ""
+    },
+    {
+      "heading": "Since Inception",
+      "content": ""
+    },
+    {
+      "heading": "PTP (`)",
+      "content": ""
+    },
+    {
+      "heading": "NAV as on May 30, 2025",
+      "content": "8.42%\n10,842\n26.94%\n20,469\n20.09%\n18,993\n360 ONE Quant Fund - Reg - Growth\n: ` 18.9982"
+    },
+    {
+      "heading": "Regular - Growth",
+      "content": "9.92%\n10,992\n28.52%\n21,244\n21.57%\n19,826\n360 ONE Quant Fund - Dir - Growth\n: ` 18.9982"
+    },
+    {
+      "heading": "Regular - IDCW",
+      "content": "8.88%\n10,888\n17.56%\n16,255\n14.07%\n15,859\nBenchmark*\n: ` 19.8314"
+    },
+    {
+      "heading": "Direct - Growth",
+      "content": "11.33%\n11,133\n14.95%\n15,195\n11.93%\n14,841\nAdditional Benchmark**\n: ` 19.8314"
+    },
+    {
+      "heading": "Direct - IDCW",
+      "content": "Past performance may or may not be sustained in future. Different plans shall have different expense structure. Point to Point (PTP) returns in ` is based on standard\ninvestment of `10,000; Since Inception date is 29 November 2021; *BSE 200 TRI; **BSE Sensex TRI; Managed by the fund manager since 25 April 2025. The performance"
+    },
+    {
+      "heading": "AUM as on May 31, 2025",
+      "content": "of the scheme is benchmarked to the Total Return variant of the Index.\n:"
+    },
+    {
+      "heading": "Net AUM",
+      "content": "` 709.17 crore\n:"
+    },
+    {
+      "heading": "Monthly Average AUM",
+      "content": "` 693.28 crore\nSIP - If you had invested `10,000 every month"
+    },
+    {
+      "heading": "Total Expense Ratio",
+      "content": ""
+    },
+    {
+      "heading": "Scheme / Benchmark",
+      "content": ""
+    },
+    {
+      "heading": "Last 1 year",
+      "content": ""
+    },
+    {
+      "heading": "Last 3 years",
+      "content": ""
+    },
+    {
+      "heading": "Last 5 years",
+      "content": ""
+    },
+    {
+      "heading": "Since Inception",
+      "content": ":\n1.95% p.a."
+    },
+    {
+      "heading": "Regular Plan",
+      "content": "1,20,000\n3,60,000\nNA\n4,20,000\nTotal Amount Invested (`)\n:\n0.50% p.a."
+    },
+    {
+      "heading": "Direct Plan",
+      "content": "Total Value as on May 31, 2025 (`)\n1,23,623\n5,18,150\nNA\n6,33,559\n5.72%\n25.22%\nNA\n24.22%\nReturns\nTotal Expense Ratio is as on the last business\nTotal Value of Benchmark: BSE 200 TRI (`)\n1,23,191\n4,59,280\nNA\n5,53,094\nday of the month.\nBenchmark: BSE 200 TRI\n5.03%\n16.52%\nNA\n15.94%\nTotal Value of Additional Benchmark: BSE Sensex TRI (`)\n1,24,410\n4,41,561\nNA\n5,29,574"
+    },
+    {
+      "heading": "Volatility Measures",
+      "content": "Additional Benchmark: BSE Sensex TRI\n6.97%\n13.76%\nNA\n13.35%\n(Inception date :29-Nov-2021) (First Installment date :01-Dec-2021)"
+    },
+    {
+      "heading": "Fund",
+      "content": ""
+    },
+    {
+      "heading": "Benchmark",
+      "content": "Source: MFI Explorer; Above returns are calculated assuming investment of `10,000/- on the 1st working day of every month. CAGR return are computed after accounting\nfor the cash flow by using XIRR method (investment internal rate of return) for Regular Plan -Growth option. The above investment simulation is for illustrative purposes only"
+    },
+    {
+      "heading": "Std. Dev",
+      "content": "18.03%\n14.25%\nand should not be construed as a promise on minimum returns and safeguard of capital."
+    },
+    {
+      "heading": "(Annualised)",
+      "content": "1.10\n0.80"
+    },
+    {
+      "heading": "Sharpe Ratio",
+      "content": "1.21\n1.00"
+    },
+    {
+      "heading": "Portfolio Beta",
+      "content": "THIS PRODUCT IS SUITABLE FOR INVESTORS WHO ARE SEEKING*\n0.92\nNA"
+    },
+    {
+      "heading": "Scheme Risk-O-Meter",
+      "content": ""
+    },
+    {
+      "heading": "Benchmark Risk-O-Meter",
+      "content": ""
+    },
+    {
+      "heading": "R Squared",
+      "content": "• Capital appreciation over long term;\n1.36\n0.95"
+    },
+    {
+      "heading": "Treynor",
+      "content": "Moderate Risk\nModerately High Risk\nModerate Risk\nModerately High Risk\n• Investment predominantly in equity and equity related\ninstruments based on quant model\nLow to Moderate Risk\nHigh Risk\nLow to Moderate Risk\nHigh Risk\n*Investors should consult their financial advisers if in doubt about\nLow Risk\nVery High Risk\nLow Risk\nVery High Risk\nwhether the product is suitable for them."
+    },
+    {
+      "heading": "RISKOMETER",
+      "content": ""
+    },
+    {
+      "heading": "RISKOMETER",
+      "content": "##With effect from November 05, 2018, Triparty Repo has\nThe risk of the scheme is Very High\nThe risk of the benchmark is Very High\nreplaced CBLOs for all schemes with provisions to invest in CBLO.\nBSE 200 TRI"
+    },
+    {
+      "heading": "June 2025",
+      "content": "Mutual Fund investments are subject to market risks, read all scheme related documents carefully."
+    },
+    {
+      "heading": "Page |",
+      "content": "7"
+    }
+  ]
+}

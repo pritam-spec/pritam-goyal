@@ -1,0 +1,73 @@
+{
+  "title": null,
+  "subtitle": null,
+  "narrative_text": null,
+  "tables": [
+    {
+      "type": "table",
+      "title": "Credit Risk of scheme",
+      "headers": [
+        "Interest Rate Risk of the Scheme",
+        "Relatively Low (Class I)",
+        "Moderate (Class II)",
+        "Relatively High (Class III)"
+      ],
+      "rows": [
+        [
+          "Relatively Low (Class I)",
+          "A-I",
+          "B-I",
+          "C-I"
+        ],
+        [
+          "",
+          "NIL",
+          "360 ONE Liquid Fund",
+          "NIL"
+        ],
+        [
+          "Moderate (Class II)",
+          "A - II",
+          "B - II",
+          "C-I"
+        ],
+        [
+          "",
+          "NIL",
+          "NIL",
+          "NIL"
+        ],
+        [
+          "Relatively High (Class III)",
+          "A - III",
+          "B - III",
+          "C - III"
+        ],
+        [
+          "",
+          "NIL",
+          "NIL",
+          "360 ONE Dynamic Bond Fund"
+        ]
+      ],
+      "page_number": 1
+    }
+  ],
+  "charts": [],
+  "page_number": 16,
+  "notes": null,
+  "debug": {
+    "sent_image_path": null,
+    "sent_image_mime": "image/png",
+    "sent_image_bytes": 350561,
+    "image_px": [
+      0,
+      0
+    ],
+    "image_token_est": 0,
+    "tables_only": true,
+    "raw_model_text_omitted": true,
+    "tables_only_mode": true,
+    "kept_structured_only": true
+  }
+}

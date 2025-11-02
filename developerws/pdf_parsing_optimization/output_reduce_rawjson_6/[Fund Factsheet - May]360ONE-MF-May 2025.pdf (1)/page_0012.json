@@ -1,0 +1,633 @@
+{
+  "title": null,
+  "subtitle": null,
+  "narrative_text": null,
+  "tables": [
+    {
+      "type": "table",
+      "title": "Portfolio as on May 31, 2025",
+      "headers": [
+        "Company Name",
+        "Rating",
+        "% to Net Assets"
+      ],
+      "rows": [
+        [
+          "REIT/InvIT Instruments",
+          "",
+          "10.08"
+        ],
+        [
+          "Embassy Office Parks REIT",
+          "Realty",
+          "3.33"
+        ],
+        [
+          "Capital Infra Trust",
+          "Construction",
+          "3.38"
+        ],
+        [
+          "Mindspace Business Parks REIT",
+          "Realty",
+          "1.03"
+        ],
+        [
+          "Brookfield India Real Estate Trust",
+          "Realty",
+          "0.94"
+        ],
+        [
+          "Debt Instruments",
+          "",
+          ""
+        ],
+        [
+          "Government Securities",
+          "SOVEREIGN",
+          "42.15"
+        ],
+        [
+          "7.26% Government of India",
+          "SOVEREIGN",
+          "12.43"
+        ],
+        [
+          "7.18% Government of India",
+          "SOVEREIGN",
+          "6.99"
+        ],
+        [
+          "7.41% Government of India",
+          "SOVEREIGN",
+          "4.73"
+        ],
+        [
+          "7.23% Government of India",
+          "SOVEREIGN",
+          "3.91"
+        ],
+        [
+          "7.68% State Government Securities",
+          "SOVEREIGN",
+          "3.87"
+        ],
+        [
+          "7.44% State Government Securities",
+          "SOVEREIGN",
+          "3.87"
+        ],
+        [
+          "6.54% Government of India",
+          "SOVEREIGN",
+          "3.73"
+        ],
+        [
+          "7.71% State Government Securities",
+          "SOVEREIGN",
+          "2.34"
+        ],
+        [
+          "7.71% State Government Securities",
+          "SOVEREIGN",
+          "2.34"
+        ],
+        [
+          "7.68% State Government Securities",
+          "SOVEREIGN",
+          "1.59"
+        ],
+        [
+          "7.74% State Government Securities",
+          "SOVEREIGN",
+          "1.65"
+        ],
+        [
+          "7.66% State Government Securities",
+          "SOVEREIGN",
+          "1.04"
+        ],
+        [
+          "7.69% State Government Securities",
+          "SOVEREIGN",
+          "0.76"
+        ],
+        [
+          "Non-Convertible Debentures/Bonds",
+          "",
+          "37.35"
+        ],
+        [
+          "6.4% Jammu Utilities & Power Private Ltd",
+          "CRISIL AAA",
+          "4.36"
+        ],
+        [
+          "8.05% LIC Housing Finance Ltd",
+          "CRISIL AAA",
+          "3.83"
+        ],
+        [
+          "7.8% HDFC Bank Limited",
+          "CRISIL AAA",
+          "3.80"
+        ],
+        [
+          "7.73% Embassy Office Parks REIT",
+          "CRISIL AAA",
+          "3.73"
+        ],
+        [
+          "8.05% PNB Housing Finance Limited",
+          "CARE AA+",
+          "3.71"
+        ],
+        [
+          "8.2% Muthoot Finance Ltd",
+          "CRISIL AA+",
+          "3.64"
+        ],
+        [
+          "9.25% SL Finance Limited",
+          "ICRA AA-",
+          "3.63"
+        ],
+        [
+          "8.05% Cholamandalam Investment and Finance Company Ltd",
+          "ICRA AA+",
+          "2.26"
+        ],
+        [
+          "7.87% LIC Housing Finance Limited",
+          "CRISIL AAA",
+          "2.26"
+        ],
+        [
+          "8.9% Shriram Finance Ltd",
+          "CRISIL AA+",
+          "2.24"
+        ],
+        [
+          "7.75% Sikka Ports & Terminals Ltd",
+          "CRISIL AAA",
+          "2.19"
+        ],
+        [
+          "8.41% Housing & Urban Development Corporation Ltd",
+          "ICRA AAA",
+          "1.55"
+        ],
+        [
+          "8.9% Cholamandalam Investment and Finance Company Ltd",
+          "ICRA AA+",
+          "0.15"
+        ],
+        [
+          "Corporate Debt Market Development Fund",
+          "",
+          "0.32"
+        ],
+        [
+          "Corporate Debt Market Development Fund",
+          "",
+          "0.32"
+        ],
+        [
+          "TREPS##",
+          "",
+          "1.25"
+        ],
+        [
+          "Sub Total",
+          "",
+          "1.25"
+        ],
+        [
+          "Net Receivables / (Payables)",
+          "",
+          "1.85"
+        ],
+        [
+          "Portfolio Total",
+          "",
+          "100.00"
+        ]
+      ],
+      "page_number": 1
+    },
+    {
+      "type": "table",
+      "title": "IDCW Declared - Monthly IDCW Plan",
+      "headers": [
+        "Date",
+        "Face Value (₹)",
+        "Gross IDCW (₹) (Per Unit)",
+        "Regular Plan NAV (₹) (Ex-IDCW)",
+        "Direct Plan NAV (₹) (Ex-IDCW)"
+      ],
+      "rows": [
+        [
+          "27-May-25",
+          "10",
+          "0.05",
+          "13.0529",
+          "14.6655"
+        ],
+        [
+          "29-Apr-25",
+          "10",
+          "0.05",
+          "12.9538",
+          "13.9521"
+        ],
+        [
+          "28-Mar-25",
+          "10",
+          "0.05",
+          "12.7839",
+          "13.5767"
+        ],
+        [
+          "Quarterly IDCW Plan",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "04-Jun-25",
+          "10",
+          "0.40",
+          "11.4275",
+          "11.5708"
+        ],
+        [
+          "HalfYearly IDCW Plan",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "04-Jun-25",
+          "10",
+          "0.40",
+          "",
+          ""
+        ]
+      ],
+      "page_number": 1
+    },
+    {
+      "type": "table",
+      "title": "Scheme Performance",
+      "headers": [
+        "",
+        "Last 1 year",
+        "PTP (₹)",
+        "Last 3 years",
+        "PTP (₹)",
+        "Last 5 years",
+        "PTP (₹)",
+        "Last 10 years",
+        "PTP (₹)",
+        "Since Inception",
+        "PTP (₹)"
+      ],
+      "rows": [
+        [
+          "360 ONE Dynamic Bond Fund - Regular Plan - Growth",
+          "11.39%",
+          "11,139",
+          "8.36%",
+          "12,727",
+          "7.43%",
+          "14,310",
+          "7.09%",
+          "19,885",
+          "7.12%",
+          "22,720"
+        ],
+        [
+          "360 ONE Dynamic Bond Fund - Direct Plan - Growth Benchmark*",
+          "11.67%",
+          "11,167",
+          "8.63%",
+          "12,823",
+          "7.74%",
+          "14,523",
+          "7.56%",
+          "20,742",
+          "7.60%",
+          "23,976"
+        ],
+        [
+          "",
+          "10.80%",
+          "11,080",
+          "8.76%",
+          "12,868",
+          "6.55%",
+          "13,735",
+          "7.88%",
+          "21,360",
+          "7.93%",
+          "24,890"
+        ],
+        [
+          "Additional Benchmark**",
+          "11.73%",
+          "11,173",
+          "9.44%",
+          "13,111",
+          "5.81%",
+          "13,078",
+          "6.90%",
+          "19,404",
+          "6.44%",
+          "21,547"
+        ]
+      ],
+      "page_number": 1
+    },
+    {
+      "type": "table",
+      "title": "Statistical Debt Indicators",
+      "headers": [
+        "",
+        ""
+      ],
+      "rows": [
+        [
+          "Annualised Portfolio YTM",
+          "6.9007%"
+        ],
+        [
+          "Macaulay Duration",
+          "5.1822 years"
+        ],
+        [
+          "Residual Maturity",
+          "6.9317 years"
+        ]
+      ],
+      "page_number": 1
+    }
+  ],
+  "charts": [
+    {
+      "type": "chart",
+      "chart_type": "pie",
+      "title": "Composition by Rating*",
+      "x_axis": {
+        "label": null,
+        "values": [
+          "AA-",
+          "AA",
+          "AAA"
+        ]
+      },
+      "y_axis": {
+        "label": null,
+        "values": [
+          11.88,
+          4.2,
+          25.1
+        ]
+      },
+      "data_series": [
+        {
+          "name": null,
+          "values": [
+            11.88,
+            4.2,
+            25.1
+          ]
+        }
+      ],
+      "page_number": 1
+    },
+    {
+      "type": "chart",
+      "chart_type": "pie",
+      "title": "Instrument Wise Composition*",
+      "x_axis": {
+        "label": null,
+        "values": [
+          "TREPS/Net Current Asset",
+          "Govt Securities",
+          "REIT/InvIT Instruments",
+          "NCDs/Bonds"
+        ]
+      },
+      "y_axis": {
+        "label": null,
+        "values": [
+          0.32,
+          49.15,
+          10.08,
+          37.35
+        ]
+      },
+      "data_series": [
+        {
+          "name": null,
+          "values": [
+            0.32,
+            49.15,
+            10.08,
+            37.35
+          ]
+        }
+      ],
+      "page_number": 1
+    },
+    {
+      "type": "chart",
+      "chart_type": "bar",
+      "title": "Maturity Profile*",
+      "x_axis": {
+        "label": null,
+        "values": [
+          ">7yr",
+          "3-5yr",
+          "5-7yr",
+          "0-1yr",
+          "1-3yr"
+        ]
+      },
+      "y_axis": {
+        "label": null,
+        "values": [
+          51.28,
+          8.75,
+          24.23,
+          2.19,
+          10
+        ]
+      },
+      "data_series": [
+        {
+          "name": null,
+          "values": [
+            51.28,
+            8.75,
+            24.23,
+            2.19,
+            10
+          ]
+        }
+      ],
+      "page_number": 1
+    },
+    {
+      "type": "chart",
+      "chart_type": "line",
+      "title": "NAV Movement (Since Inception) Rebased to 100",
+      "x_axis": {
+        "label": null,
+        "values": [
+          "Oct'13",
+          "Feb'16",
+          "Jun'17",
+          "Oct'18",
+          "Jan'20",
+          "May'21",
+          "Sep'22",
+          "Jan'24",
+          "May'25"
+        ]
+      },
+      "y_axis": {
+        "label": null,
+        "values": [
+          100,
+          110,
+          120,
+          130,
+          140,
+          150,
+          160,
+          170,
+          180
+        ]
+      },
+      "data_series": [
+        {
+          "name": "360 One Dynamic Bond Fund - Reg - Growth",
+          "values": [
+            100,
+            105,
+            110,
+            115,
+            120,
+            130,
+            140,
+            150,
+            160
+          ]
+        },
+        {
+          "name": "CRISIL Dynamic Bond A-III Index",
+          "values": [
+            100,
+            103,
+            108,
+            112,
+            118,
+            125,
+            135,
+            145,
+            155
+          ]
+        }
+      ],
+      "page_number": 1
+    },
+    {
+      "type": "chart",
+      "chart_type": "gauge",
+      "title": "Scheme Risk-O-Meter",
+      "x_axis": {
+        "label": null,
+        "values": []
+      },
+      "y_axis": {
+        "label": null,
+        "values": []
+      },
+      "data_series": [
+        {
+          "name": null,
+          "values": []
+        }
+      ],
+      "page_number": 1
+    },
+    {
+      "type": "chart",
+      "chart_type": "gauge",
+      "title": "Benchmark Risk-O-Meter",
+      "x_axis": {
+        "label": null,
+        "values": []
+      },
+      "y_axis": {
+        "label": null,
+        "values": []
+      },
+      "data_series": [
+        {
+          "name": null,
+          "values": []
+        }
+      ],
+      "page_number": 1
+    }
+  ],
+  "page_number": 12,
+  "notes": null,
+  "debug": {
+    "sent_image_path": null,
+    "sent_image_mime": "image/png",
+    "sent_image_bytes": 624862,
+    "image_px": [
+      0,
+      0
+    ],
+    "image_token_est": 0,
+    "tables_only": true,
+    "raw_model_text_omitted": true,
+    "local_raw_lines_count": 93
+  },
+  "sections": [
+    {
+      "heading": "An open-ended dynamic debt scheme investing across duration.",
+      "content": ""
+    },
+    {
+      "heading": "A relatively high interest rate risk and relatively high credit risk.",
+      "content": ""
+    },
+    {
+      "heading": "Fund Manager\nMr. Milan Mody\nDebt Instruments",
+      "content": "Mr. Mody has over 20 years of work experience in\n56.82%\nthe Fixed Income market.\n^As of May 31, 2025\nMr. Manumaharaj\nCo- Fund Manager\nSaravanaraj\n7.6% State Government Securities\n3.88\nTREPS/ Net\n7.64% State Government Securities\nCurrent\nCDMDF\nMr. Saravanaraj has over 1 year of work experience.\nGovt.\nAsset\n0.32%\nSecurities\nHe has done research in Tracks Telecom, Textile\n3.10%\nREIT/InvIT\n49.15%\nand IT sectors.\nInstruments\n10.08%"
+    },
+    {
+      "heading": ": 0% to 100%\nDebt Market",
+      "content": ""
+    },
+    {
+      "heading": ": 0% to 100%\nMoney Market",
+      "content": ": 0% to 10%\nREITs & InvITs\n*Weekly and Fortnightly SIP frequencies are not\navailable on BSE STAR MF Platform\nGross IDCW ( ` )\nRegular Plan NAV ( ` )\nDirect Plan NAV"
+    },
+    {
+      "heading": "Inception\n:",
+      "content": "Net AUM\n` 685.99 crore\n360 ONE Dynamic Bond Fund -\n19,855\n22,730\nReg – Growth\nMonthly Average AUM\n` 704.31 crore"
+    },
+    {
+      "heading": "June 2025\nMutual Fund investments are subject to market risks, read all scheme related documents carefully.\nPage |\n11",
+      "content": ""
+    }
+  ]
+}

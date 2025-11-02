@@ -1,0 +1,206 @@
+{
+  "title": "360 ONE Silver ETF",
+  "subtitle": "(An open-ended exchange traded fund replicating/tracking domestic prices of Silver.)",
+  "narrative_text": null,
+  "tables": [
+    {
+      "type": "table",
+      "title": "Portfolio as on May 31, 2025",
+      "headers": [
+        "Company Name",
+        "% to Net Assets"
+      ],
+      "rows": [
+        [
+          "Silver",
+          "96.46"
+        ],
+        [
+          "Silver",
+          "96.46"
+        ],
+        [
+          "TREPS##",
+          "0.40"
+        ],
+        [
+          "Sub Total",
+          "0.40"
+        ],
+        [
+          "Net Receivables / (Payables)",
+          "3.14"
+        ],
+        [
+          "Portfolio Total",
+          "100.00"
+        ]
+      ],
+      "page_number": 1
+    },
+    {
+      "type": "table",
+      "title": "Fund Details",
+      "headers": [
+        "Date of Allotment",
+        "Benchmark Index",
+        "Plans Offered",
+        "Options Offered",
+        "Minimum Application",
+        "New Purchase",
+        "Additional Purchase",
+        "Entry Load",
+        "Exit Load",
+        "Dematerialization",
+        "Exchange Listed",
+        "Exchange Symbol/ Scrip Code",
+        "ISIN",
+        "Asset Allocation",
+        "Debt Market",
+        "Money Market",
+        "Tracking Error"
+      ],
+      "rows": [
+        [
+          "March 28, 2025",
+          "Domestic Prices of Silver",
+          "The Scheme does not offer any Plans for investment",
+          "The Scheme does not offer any Options for investment",
+          "lot of 1 unit and in multiples thereof",
+          "lot of 1 unit and in multiples thereof",
+          "NIL",
+          "NIL",
+          "Available",
+          "NSE,BSE",
+          "SILVER360, 544389",
+          "INF579M01BC3",
+          "95% to 100% Silver and Silver related instruments",
+          "0% to 5%",
+          "0% to 5%",
+          "1.18%",
+          null
+        ]
+      ],
+      "page_number": 1
+    },
+    {
+      "type": "table",
+      "title": "NAV as on May 30, 2025",
+      "headers": [
+        "360 ONE Silver ETF"
+      ],
+      "rows": [
+        [
+          "₹ 97.2665"
+        ]
+      ],
+      "page_number": 1
+    },
+    {
+      "type": "table",
+      "title": "AUM as on May 31, 2025",
+      "headers": [
+        "Net AUM",
+        "Monthly Average AUM"
+      ],
+      "rows": [
+        [
+          "₹ 7.55 crore",
+          "₹ 7.34 crore"
+        ]
+      ],
+      "page_number": 1
+    },
+    {
+      "type": "table",
+      "title": "Total Expense Ratio",
+      "headers": [
+        "Regular Plan"
+      ],
+      "rows": [
+        [
+          "0.41% p.a."
+        ]
+      ],
+      "page_number": 1
+    }
+  ],
+  "charts": [
+    {
+      "type": "chart",
+      "chart_type": "pie",
+      "title": "Instrument Wise Composition",
+      "x_axis": {
+        "label": null,
+        "values": []
+      },
+      "y_axis": {
+        "label": null,
+        "values": []
+      },
+      "data_series": [
+        {
+          "name": "Silver",
+          "values": [
+            96.46
+          ]
+        },
+        {
+          "name": "TREPS/Net Current Asset",
+          "values": [
+            3.54
+          ]
+        }
+      ],
+      "page_number": 1
+    }
+  ],
+  "page_number": 15,
+  "notes": null,
+  "debug": {
+    "sent_image_path": null,
+    "sent_image_mime": "image/png",
+    "sent_image_bytes": 241718,
+    "image_px": [
+      0,
+      0
+    ],
+    "image_token_est": 0,
+    "tables_only": true,
+    "raw_model_text_omitted": true,
+    "local_raw_lines_count": 49,
+    "local_filter_debug": {
+      "orig_sections": 19,
+      "filtered_sections": 6
+    },
+    "local_text_extracted": true,
+    "tables_from_llm": 5,
+    "charts_from_llm": 1
+  },
+  "sections": [
+    {
+      "heading": "(An open-ended exchange traded fund replicating/tracking domestic prices of Silver.)",
+      "content": "Investment Objective\nThe investment objective of the scheme is\nTREPS/ Net\nto generate returns that are in line with the\nCurrent\nperformance of physical Silver in domestic prices,\nAsset\nsubject to tracking error. However, there is no\n3.54%\nassurance that the investment objective of the\nScheme will be realized and the Scheme does not\nassure or guarantee any returns.\nFund Manager Mr. Rahul Khetawat\nMr. Khetawat has over 14 years of experience of\nhandling multiple asset classes including Forex."
+    },
+    {
+      "heading": "96.46%\nFund Details",
+      "content": "^As of May 31, 2025"
+    },
+    {
+      "heading": "The Scheme does not\nPlans Offered",
+      "content": "offer any Plans for\ninvestment."
+    },
+    {
+      "heading": "The Scheme does not\nOptions Offered",
+      "content": "offer any Options for\ninvestment.\n: lot of 1 unit and in"
+    },
+    {
+      "heading": "Minimum Application\nmultiples thereof",
+      "content": ": lot of 1 unit and in"
+    },
+    {
+      "heading": ":\n0.41% p.a.\nRegular Plan",
+      "content": "Total Expense Ratio is as on the last business\nday of the month.\nMutual Fund investments are subject to market risks, read all scheme related documents carefully.\nPage |\n14"
+    }
+  ]
+}

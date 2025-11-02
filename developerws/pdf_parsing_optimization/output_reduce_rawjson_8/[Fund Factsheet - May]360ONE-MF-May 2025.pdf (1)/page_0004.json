@@ -1,0 +1,177 @@
+{
+  "title": null,
+  "subtitle": null,
+  "narrative_text": null,
+  "tables": [
+    {
+      "type": "table",
+      "title": "Spread Movement",
+      "headers": [
+        "Spreads",
+        "Maturity Period",
+        "AAA",
+        "AA",
+        "A"
+      ],
+      "rows": [
+        [
+          "30-May-25",
+          "1 Yr",
+          "103",
+          "175",
+          "314"
+        ],
+        [
+          "30-May-25",
+          "3 Yr",
+          "98",
+          "167",
+          "300"
+        ],
+        [
+          "30-May-25",
+          "5 Yr",
+          "91",
+          "164",
+          "292"
+        ],
+        [
+          "30-May-25",
+          "10 Yr",
+          "74",
+          "150",
+          "290"
+        ],
+        [
+          "30-Apr-25",
+          "1 Yr",
+          "99",
+          "172",
+          "314"
+        ],
+        [
+          "30-Apr-25",
+          "3 Yr",
+          "92",
+          "162",
+          "301"
+        ],
+        [
+          "30-Apr-25",
+          "5 Yr",
+          "87",
+          "162",
+          "294"
+        ],
+        [
+          "30-Apr-25",
+          "10 Yr",
+          "73",
+          "145",
+          "300"
+        ]
+      ],
+      "page_number": 1
+    },
+    {
+      "type": "table",
+      "title": null,
+      "headers": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "rows": [
+        [
+          "5 Yr",
+          "91",
+          "164",
+          "292"
+        ],
+        [
+          "10 Yr",
+          "74",
+          "150",
+          "290"
+        ],
+        [
+          "1 Yr",
+          "99",
+          "172",
+          "314"
+        ],
+        [
+          "3 Yr",
+          "87",
+          "162",
+          "301"
+        ]
+      ],
+      "page_number": 1
+    }
+  ],
+  "charts": [
+    {
+      "type": "chart",
+      "chart_type": "line",
+      "title": "10 Year Benchmark Bond Movement",
+      "x_axis": {
+        "label": null,
+        "values": []
+      },
+      "y_axis": {
+        "label": "Yield (%)",
+        "values": []
+      },
+      "data_series": [
+        {
+          "name": null,
+          "values": []
+        }
+      ],
+      "page_number": 1
+    }
+  ],
+  "page_number": 4,
+  "notes": null,
+  "debug": {
+    "sent_image_path": null,
+    "sent_image_mime": "image/png",
+    "sent_image_bytes": 448619,
+    "image_px": [
+      0,
+      0
+    ],
+    "image_token_est": 0,
+    "tables_only": true,
+    "raw_model_text_omitted": true,
+    "local_raw_lines_count": 52
+  },
+  "sections": [
+    {
+      "heading": "MONTHLY MARKET UPDATE",
+      "content": ""
+    },
+    {
+      "heading": "Debt Market",
+      "content": ""
+    },
+    {
+      "heading": "10 Year Benchmark Bond Movement\nSpread Movement",
+      "content": ""
+    },
+    {
+      "heading": "May 2025: Assessment and Outlook",
+      "content": ""
+    },
+    {
+      "heading": "Macros:",
+      "content": "India’s Consumer Price Index (CPI) inflation eased to 3.16% YoY in April 2025 from 3.34% in the previous month. The\ndecline in headline inflation was driven by a fall in food inflation to 2.1% YoY in April 2025 from 2.9% YoY in March\n2025. Within food, a lower contribution from vegetables drove the decline in headline inflation. Vegetable inflation\neased to -11.0% YoY in April 2025 from -7.0% YoY in March, on account of a 3.0% MoM correction in vegetable prices.\nCore inflation (which excludes food and fuel) remained flat at 4.2% YoY. Underlying inflation pressures remained\nsubdued, as indicated by a refined measure of core inflation (which additionally excludes transportation fuel and\nvaluables), measuring 3.5% YoY in April 2025. The inflation outlook remains benign and especially in the next 6\nmonths headline CPI will benefit from a big base effect as well.\nThe Reserve Bank of India (RBI) announced an all-time high dividend transfer of Rs 2.69 trillion to the Government\nof India. Furthermore, the revised range for the Contingency Risk Buffer (CRB) has been decided at 6.0 ± 1.5% of the\nbalance sheet size (as against the existing level of 6.5%- 5.5%) – as part of the periodic review of the Economic Capital\nFramework. The CRB has been raised to 7.5%.\nThe IMD has updated the forecast for the Southwest Monsoon to 106% (+/- 4%) of the long-period average (LPA), up\nfrom the previous 105% (+/- 5%). During June to September 2025, normal to above normal rainfall is very likely over\nmost parts of the country, except some areas of Northwest and East India and many areas of Northeast India, where\nbelow normal rainfall is very likely. The average rainfall for the country as a whole during June 2025 is most likely\nto be above normal (>108% of LPA).\nIn FY25, direct tax collection rose by 13% YoY to Rs. 21.7 tn, up from Rs. 19.2 tn in FY24 but fell short of the revised\ntarget of Rs. 22.4 tn by Rs. 673 bn, primarily due to a Rs. 740 bn shortfall in personal income tax. Disinvestment\nproceeds remained weak at Rs. 172 bn, well below the Rs. 330 bn target. Revenue expenditure increased by 3.1%\nYoY to Rs. 36 tn, lower than the revised estimate of Rs. 37 tn, while capital expenditure exceeded the target by Rs.\n336 bn to reach Rs. 10.5 tn. The fiscal deficit target of 4.8% of GDP was met as budgeted."
+    },
+    {
+      "heading": "Global:",
+      "content": "Moody’s Ratings downgraded the United States’ last remaining top-tier credit rating, citing growing concerns over\nthe country’s rising debt and persistent budget deficits. The agency cut the US rating from AAA to Aa1, aligning with\nearlier downgrades by Fitch and S&P Global, and marking the first time all three major agencies have rated the US\nbelow AAA. During the mid-month, US and China agreed to a 90-day tariff truce, with deeper-than-expected tariff\ncuts. Meanwhile, the uncertainty around the tariffs continued as the US federal court blocked the US President from\nimposing sweeping tariffs on imports under an emergency powers law. However, the US appeals court reinstated the\nUS President's tariffs a day after they were deemed illegal.\nPresident Donald Trump announced that the US will double its current tariff rate on steel and aluminium imports from\n25% to 50%, effective June 4, 2025. Trump also accused China of violating the Geneva deal. The US 10Y yield has\nsurged by around 40bps in May to 4.6% (as of 21 May) amidst fiscal worries as US fiscal concerns are in focus with\ntax bill under consideration that could increase the US deficit by USD 3.8 trillion over the next decade, according to\nthe Congressional Budget Office.\nJune 2025\nMutual Fund investments are subject to market risks, read all scheme related documents carefully.\nPage |"
+    }
+  ]
+}

@@ -1,0 +1,924 @@
+{
+  "title": "360 ONE LIQUID FUND",
+  "subtitle": "(An open‐ended liquid scheme. A relatively low interest rate risk and moderate credit risk)",
+  "narrative_text": null,
+  "tables": [
+    {
+      "type": "table",
+      "title": "Portfolio as on May 31, 2025",
+      "headers": [
+        "Company Name",
+        "Rating",
+        "% to Net Assets"
+      ],
+      "rows": [
+        [
+          "Debt Instruments",
+          "",
+          ""
+        ],
+        [
+          "Certificate of Deposit",
+          "",
+          "12.49"
+        ],
+        [
+          "RBL Bank Ltd",
+          "ICRA A1+",
+          "3.14"
+        ],
+        [
+          "IDFC Bank Ltd",
+          "ICRA A1+",
+          "3.13"
+        ],
+        [
+          "Axis Bank Ltd",
+          "CRISIL A1+",
+          "6.22"
+        ],
+        [
+          "Commercial Paper",
+          "",
+          "56.29"
+        ],
+        [
+          "Aditya Birla Finance Corporation Limited",
+          "CRISIL A1+",
+          "9.35"
+        ],
+        [
+          "Reliance Industries Limited",
+          "CRISIL A1+",
+          "6.26"
+        ],
+        [
+          "ICICI Securities Corporation Limited",
+          "CRISIL A1+",
+          "6.26"
+        ],
+        [
+          "Bajaj Housing Finance Limited",
+          "FITCH A1+",
+          "6.25"
+        ],
+        [
+          "NTPC Limited",
+          "ICRA A1+",
+          "6.22"
+        ],
+        [
+          "National Bank For Agriculture and Rural Development",
+          "CRISIL A1+",
+          "3.13"
+        ],
+        [
+          "ICICI Securities Limited",
+          "CRISIL A1+",
+          "3.13"
+        ],
+        [
+          "Indian Oil Corporation Limited",
+          "ICRA A1+",
+          "3.13"
+        ],
+        [
+          "Small Industries Dev Bank of India",
+          "CRISIL A1+",
+          "3.13"
+        ],
+        [
+          "Tata Capital Financial Solutions Limited",
+          "CRISIL A1+",
+          "3.12"
+        ],
+        [
+          "Aditya Birla Capital Limited",
+          "CRISIL A1+",
+          "3.11"
+        ],
+        [
+          "Godrej Industries Limited",
+          "CRISIL A1+",
+          "3.11"
+        ],
+        [
+          "L&T Finance Limited",
+          "CRISIL A1+",
+          "3.10"
+        ],
+        [
+          "Treasury Bill",
+          "",
+          "18.57"
+        ],
+        [
+          "91 Days TBill",
+          "SOVEREIGN",
+          "12.29"
+        ],
+        [
+          "182 Days TBill",
+          "SOVEREIGN",
+          "6.28"
+        ],
+        [
+          "Non-Convertible Debentures/Zero Coupon Bonds",
+          "",
+          "6.38"
+        ],
+        [
+          "8.7% National Bank For Agriculture and Rural Development",
+          "CRISIL AAA",
+          "4.39"
+        ],
+        [
+          "7.65% Bajaj Housing Finance Ltd",
+          "CRISIL AAA",
+          "1.99"
+        ],
+        [
+          "Corporate Debt Market Development Fund",
+          "",
+          "0.94"
+        ],
+        [
+          "Corporate Debt Market Development Fund",
+          "TREPS##",
+          "0.34"
+        ],
+        [
+          "",
+          "",
+          "2.59"
+        ],
+        [
+          "Sub Total",
+          "",
+          "2.59"
+        ],
+        [
+          "Net Receivables / (Payables)",
+          "",
+          "-2.59"
+        ],
+        [
+          "Portfolio Total",
+          "",
+          "100.00"
+        ]
+      ],
+      "page_number": 1
+    },
+    {
+      "type": "table",
+      "title": "Scheme Performance",
+      "headers": [
+        "",
+        "Last 7 days",
+        "PTP (₹)",
+        "Last 15 days",
+        "PTP (₹)",
+        "Last 1 Month",
+        "PTP (₹)",
+        "Last 3 Months",
+        "PTP (₹)",
+        "Last 6 Months",
+        "PTP (₹)"
+      ],
+      "rows": [
+        [
+          "360 ONE Liquid Fund - Reg - Growth",
+          "6.11%",
+          "10,012",
+          "6.14%",
+          "10,025",
+          "6.13%",
+          "10,052",
+          "6.82%",
+          "10,172",
+          "6.96%",
+          "10,347"
+        ],
+        [
+          "360 ONE Liquid Fund - Dir - Growth",
+          "6.28%",
+          "10,012",
+          "6.26%",
+          "10,026",
+          "6.25%",
+          "10,053",
+          "6.94%",
+          "10,175",
+          "7.05%",
+          "10,351"
+        ],
+        [
+          "Benchmark*",
+          "6.16%",
+          "10,012",
+          "6.65%",
+          "10,027",
+          "6.42%",
+          "10,054",
+          "6.97%",
+          "10,176",
+          "7.02%",
+          "10,350"
+        ],
+        [
+          "Additional Benchmark**",
+          "8.91%",
+          "10,017",
+          "8.34%",
+          "10,034",
+          "8.89%",
+          "10,075",
+          "9.29%",
+          "10,234",
+          "8.14%",
+          "10,406"
+        ]
+      ],
+      "page_number": 1
+    },
+    {
+      "type": "table",
+      "title": "Scheme Performance",
+      "headers": [
+        "",
+        "Last 1 year",
+        "PTP (₹)",
+        "Last 3 years",
+        "PTP (₹)",
+        "Last 5 years",
+        "PTP (₹)",
+        "Last 10 years",
+        "PTP (₹)",
+        "Since Inception",
+        "PTP (₹)"
+      ],
+      "rows": [
+        [
+          "360 ONE Liquid Fund - Reg - Growth",
+          "7.04%",
+          "10,704",
+          "6.76%",
+          "12,177",
+          "6.32%",
+          "12,927",
+          "6.89%",
+          "17,446",
+          "7.00%",
+          "20,003"
+        ],
+        [
+          "360 ONE Liquid Fund - Dir - Growth",
+          "7.11%",
+          "10,711",
+          "6.82%",
+          "12,192",
+          "6.32%",
+          "12,962",
+          "5.92%",
+          "17,778",
+          "6.24%",
+          "20,122"
+        ],
+        [
+          "Benchmark*",
+          "7.15%",
+          "10,715",
+          "6.93%",
+          "12,229",
+          "6.57%",
+          "13,112",
+          "6.23%",
+          "18,307",
+          "6.61%",
+          "20,941"
+        ],
+        [
+          "Additional Benchmark**",
+          "8.00%",
+          "10,800",
+          "7.12%",
+          "12,293",
+          "5.53%",
+          "13,088",
+          "6.37%",
+          "18,550",
+          "6.65%",
+          "21,044"
+        ]
+      ],
+      "page_number": 1
+    },
+    {
+      "type": "table",
+      "title": null,
+      "headers": [
+        "Entry Load",
+        "Exit Load",
+        "Effective exit upon Subscription",
+        "Day 1",
+        "Day 2",
+        "Day 3",
+        "Day 4",
+        "Day 5",
+        "Day 6",
+        "Day 7 Onwards",
+        "Dematerialization",
+        "Asset Allocation",
+        "Money market and debt instruments with residual maturity up to 91 days"
+      ],
+      "rows": [
+        [
+          "Nil",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          null
+        ],
+        [
+          "",
+          "Exit load as a % of redemption proceeds",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          null
+        ],
+        [
+          "",
+          "",
+          "0.0075%",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          null
+        ],
+        [
+          "",
+          "",
+          "0.0070%",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          null
+        ],
+        [
+          "",
+          "",
+          "0.0060%",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          null
+        ],
+        [
+          "",
+          "",
+          "0.0055%",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          null
+        ],
+        [
+          "",
+          "",
+          "0.0050%",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          null
+        ],
+        [
+          "",
+          "",
+          "0.0045%",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          null
+        ],
+        [
+          "",
+          "",
+          "0.0000%",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          null
+        ],
+        [
+          "",
+          "",
+          "D-Mat Option Available",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          null
+        ],
+        [
+          "",
+          "",
+          "0.0050%",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          null
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          null
+        ],
+        [
+          "",
+          "",
+          "0% to 100%",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          null
+        ]
+      ],
+      "page_number": 1
+    },
+    {
+      "type": "table",
+      "title": "NAV as on May 30, 2025",
+      "headers": [
+        "Regular Plan Growth",
+        "Regular Plan Weekly IDCW",
+        "Regular Plan Daily IDCW",
+        "Direct Plan Growth",
+        "Direct Plan Daily IDCW",
+        "Direct Plan Weekly IDCW"
+      ],
+      "rows": [
+        [
+          "₹ 2000.3215",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "₹ 1005.5189",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "₹ 1000.6143",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "₹ 2012.2503",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "₹ 1000.6143",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "₹ 1005.5287",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      ],
+      "page_number": 1
+    },
+    {
+      "type": "table",
+      "title": "AUM as on May 31, 2025",
+      "headers": [
+        "Net Assets",
+        "Monthly Average AUM"
+      ],
+      "rows": [
+        [
+          "₹ 795.57 crore",
+          ""
+        ],
+        [
+          "₹ 842.88 crore",
+          ""
+        ]
+      ],
+      "page_number": 1
+    },
+    {
+      "type": "table",
+      "title": "Total Expense Ratio",
+      "headers": [
+        "Regular Plan",
+        "Direct Plan"
+      ],
+      "rows": [
+        [
+          "0.32% p.a.",
+          ""
+        ],
+        [
+          "0.25% p.a.",
+          ""
+        ]
+      ],
+      "page_number": 1
+    },
+    {
+      "type": "table",
+      "title": "Statistical Debt Indicators",
+      "headers": [
+        "Annualised Portfolio YTM",
+        "Macaulay Duration",
+        "Residual Maturity"
+      ],
+      "rows": [
+        [
+          "6.2430%",
+          "",
+          ""
+        ],
+        [
+          "0.1064 years",
+          "",
+          ""
+        ],
+        [
+          "0.1007 years",
+          "",
+          ""
+        ]
+      ],
+      "page_number": 1
+    }
+  ],
+  "charts": [
+    {
+      "type": "chart",
+      "chart_type": "pie",
+      "title": "Composition by Rating*",
+      "x_axis": {
+        "label": null,
+        "values": [
+          "AAA",
+          "Sovereign",
+          "A1+"
+        ]
+      },
+      "y_axis": {
+        "label": null,
+        "values": [
+          6.5,
+          19.22,
+          74.28
+        ]
+      },
+      "data_series": [
+        {
+          "name": null,
+          "values": [
+            6.5,
+            19.22,
+            74.28
+          ]
+        }
+      ],
+      "page_number": 1
+    },
+    {
+      "type": "chart",
+      "chart_type": "pie",
+      "title": "Instrument Wise Composition*",
+      "x_axis": {
+        "label": null,
+        "values": [
+          "CD/NCD/CP",
+          "Treasury Bill",
+          "TREPS/Net Current Asset",
+          "Certificate of Deposit"
+        ]
+      },
+      "y_axis": {
+        "label": null,
+        "values": [
+          68.28,
+          18.57,
+          0.66,
+          12.49
+        ]
+      },
+      "data_series": [
+        {
+          "name": null,
+          "values": [
+            68.28,
+            18.57,
+            0.66,
+            12.49
+          ]
+        }
+      ],
+      "page_number": 1
+    },
+    {
+      "type": "chart",
+      "chart_type": "bar",
+      "title": "Maturity Profile*",
+      "x_axis": {
+        "label": null,
+        "values": [
+          ">600",
+          "350-<600",
+          "15-<30",
+          "0-<15D"
+        ]
+      },
+      "y_axis": {
+        "label": null,
+        "values": [
+          10.59,
+          36.57,
+          40.05,
+          9.42
+        ]
+      },
+      "data_series": [
+        {
+          "name": null,
+          "values": [
+            10.59,
+            36.57,
+            40.05,
+            9.42
+          ]
+        }
+      ],
+      "page_number": 1
+    },
+    {
+      "type": "chart",
+      "chart_type": "line",
+      "title": "NAV Movement (Since Inception) Rebased to 100",
+      "x_axis": {
+        "label": null,
+        "values": [
+          "Nov-13",
+          "Feb-15",
+          "Jun-16",
+          "Sep-17",
+          "Dec-18",
+          "Mar-20",
+          "Jul-21",
+          "Oct-22",
+          "Jan-24",
+          "May-25"
+        ]
+      },
+      "y_axis": {
+        "label": null,
+        "values": [
+          100,
+          120,
+          140,
+          160,
+          180,
+          200,
+          220
+        ]
+      },
+      "data_series": [
+        {
+          "name": "360 One Liquid Fund - Reg - Growth",
+          "values": [
+            100,
+            105,
+            110,
+            120,
+            130,
+            145,
+            160,
+            175,
+            190,
+            205
+          ]
+        },
+        {
+          "name": "CRISIL Liquid Debt A-I Index",
+          "values": [
+            100,
+            105,
+            112,
+            122,
+            132,
+            148,
+            165,
+            180,
+            195,
+            210
+          ]
+        }
+      ],
+      "page_number": 1
+    },
+    {
+      "type": "chart",
+      "chart_type": "gauge",
+      "title": "Scheme Risk-O-Meter",
+      "x_axis": {
+        "label": null,
+        "values": [
+          "Low to Moderate"
+        ]
+      },
+      "y_axis": {
+        "label": null,
+        "values": [
+          3
+        ]
+      },
+      "data_series": [
+        {
+          "name": null,
+          "values": [
+            3
+          ]
+        }
+      ],
+      "page_number": 1
+    },
+    {
+      "type": "chart",
+      "chart_type": "gauge",
+      "title": "Benchmark Risk-O-Meter",
+      "x_axis": {
+        "label": null,
+        "values": [
+          "Low to Moderate"
+        ]
+      },
+      "y_axis": {
+        "label": null,
+        "values": [
+          3
+        ]
+      },
+      "data_series": [
+        {
+          "name": null,
+          "values": [
+            3
+          ]
+        }
+      ],
+      "page_number": 1
+    }
+  ],
+  "page_number": 13,
+  "notes": null,
+  "debug": {
+    "sent_image_path": null,
+    "sent_image_mime": "image/png",
+    "sent_image_bytes": 550210,
+    "image_px": [
+      0,
+      0
+    ],
+    "image_token_est": 0,
+    "tables_only": true,
+    "raw_model_text_omitted": true,
+    "local_raw_lines_count": 95,
+    "local_filter_debug": {
+      "orig_sections": 17,
+      "filtered_sections": 4
+    },
+    "local_text_extracted": true,
+    "tables_from_llm": 8,
+    "charts_from_llm": 6
+  },
+  "sections": [
+    {
+      "heading": "(An open‐ended liquid scheme. A relatively low interest rate risk and moderate credit risk)",
+      "content": "Investment Objective\nTo provide liquidity with reasonable returns\n% to Net\ncommensurate with low risk through a portfolio of\nAssets\nmoney market and debt securities with residual\n6.50%\nmaturity of up to 91 days. However, there can be\nno assurance that the investment objective of the\nscheme will be achieved.\nICICI Bank Ltd\n19.22%\nFund Manager\nMr. Milan Mody\n59.29\nReliance Jio Infocomm Limited\nMr. Mody has over 20 years of work experience in\nthe Fixed Income market.\nHindustan Petroleum Corporation Limited\nMr. Manumaharaj\nCo- Fund Manager\nSaravanaraj\nNational Bank For Agriculture and Rural\nMr. Saravanaraj has over 1 year of work experience.\n74.28%\nDevelopment\nHe has done research in Tracks Telecom, Textile\nand IT sectors.\n^As of May 31, 2025\nFund Details\nReliance Retail Ventures Limited\nDate of Allotment\n: CRISIL Liquid Debt A-I\nBenchmark Index\nTREPS/ Net\nCDMDF\nIndex\nCurrent Asset\n0.34%\nAxis Finance Limited\n: Regular & Direct\nPlans Offered\nNCD/Bonds\nCertificate of\n3.04%\n: Growth & IDCW\nOptions Offered\nDeposit\n: ` 5,000 and in multiples of\n12.49%\nMinimum Application\nNew Purchase\n` 1 thereafter\n18.57%\n: ` 1000 and in multiples of\nAdditional Purchase\n5.7% National Bank For Agriculture and Rural\n` 1 thereafter\nDevelopment\n: ` 1000 per instalment for\nWeekly SIP Option*\n1.89\na minimum period of 6\nweeks - any business\nday between Monday to\nFriday. Default day will\nCommercial\nbe Tuesday.\nPaper\n0.45\n: ` 1000 per instalment for\nFortnightly\n59.29%\na minimum period of 6\nSIP Option*\n^As of May 31, 2025\nfortnights - 2 nd and 16 th\nof every month\n: ` 1000 per instalment for\nMonthly SIP Option\na minimum period of 6\nmonths - Any date 1 st to\n28 th (Default – 7 th of every\nmonth)\nLast 7\nLast 6\nQuarterly SIP Option : ` 1,500 per instalment for"
+    },
+    {
+      "heading": "days\nMonths\na minimum period of 4",
+      "content": "quarters- Any date 1 st to\n28 th (Default – 7 th )\n: Exit load as a % of\nInvestor exit upon\nredemption proceeds\nLast 1\nSince\nSubscription"
+    },
+    {
+      "heading": "91 days",
+      "content": "*Weekly and Fortnightly SIP frequencies are not\navailable on BSE STAR MF Platform\n>30<=60D\n36.57%"
+    },
+    {
+      "heading": ": 0.1007 years\nResidual Maturity",
+      "content": "Note: For PRC Matrix of the fund please\nrefer to Glossary.\nJune 2025\nMutual Fund investments are subject to market risks, read all scheme related documents carefully.\nPage |"
+    }
+  ]
+}

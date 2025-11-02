@@ -1,0 +1,272 @@
+{
+  "title": "360 ONE Gold ETF",
+  "subtitle": "(An open-ended exchange traded fund replicating/tracking domestic prices of Gold.)",
+  "narrative_text": null,
+  "tables": [
+    {
+      "type": "table",
+      "title": "Portfolio as on May 31, 2025",
+      "headers": [
+        "Company Name",
+        "% to Net Assets"
+      ],
+      "rows": [
+        [
+          "Gold",
+          "95.85"
+        ],
+        [
+          "Gold",
+          "95.85"
+        ],
+        [
+          "TREPS#",
+          "1.48"
+        ],
+        [
+          "Sub Total",
+          "1.48"
+        ],
+        [
+          "Net Receivables / (Payables)",
+          "2.68"
+        ],
+        [
+          "Portfolio Total",
+          "100.00"
+        ]
+      ],
+      "page_number": 1
+    },
+    {
+      "type": "table",
+      "title": "Fund Details",
+      "headers": [
+        "",
+        ""
+      ],
+      "rows": [
+        [
+          "Date of Allotment",
+          "March 07, 2025"
+        ],
+        [
+          "Benchmark Index",
+          "Domestic Prices of Gold"
+        ],
+        [
+          "Plans Offered",
+          "The Scheme does not offer any Plans for investment"
+        ],
+        [
+          "Options Offered",
+          "The Scheme does not offer any Options for investment"
+        ],
+        [
+          "Minimum Application",
+          "lot of 1 unit and in multiples thereof"
+        ],
+        [
+          "New Purchase",
+          "lot of 1 unit and in multiples thereof"
+        ],
+        [
+          "Additional Purchase",
+          "lot of 1 unit and in multiples thereof"
+        ],
+        [
+          "Entry Load",
+          "NIL"
+        ],
+        [
+          "Exit Load",
+          "NIL"
+        ],
+        [
+          "Dematerialization",
+          "In Demat Option Available"
+        ],
+        [
+          "Exchange Listed",
+          "NSE,BSE"
+        ],
+        [
+          "Exchange Symbol/ Scrip Code",
+          "GOLD360, 544375"
+        ],
+        [
+          "ISIN",
+          "INF579M01B85"
+        ],
+        [
+          "Asset Allocation",
+          ""
+        ],
+        [
+          "Gold and gold related instrument",
+          "95% to 100%"
+        ],
+        [
+          "Debt Market",
+          "0% to 5%"
+        ],
+        [
+          "Money Market",
+          "0% to 5%"
+        ],
+        [
+          "Tracking Error",
+          "0.87%"
+        ]
+      ],
+      "page_number": 1
+    },
+    {
+      "type": "table",
+      "title": "NAV as on May 30, 2025",
+      "headers": [
+        "",
+        ""
+      ],
+      "rows": [
+        [
+          "360 ONE Gold ETF",
+          "₹ 94.2511"
+        ]
+      ],
+      "page_number": 1
+    },
+    {
+      "type": "table",
+      "title": "AUM as on May 31, 2025",
+      "headers": [
+        "",
+        ""
+      ],
+      "rows": [
+        [
+          "Net AUM",
+          "₹ 14.88 crore"
+        ],
+        [
+          "Monthly Average AUM",
+          "₹ 14.81 crore"
+        ]
+      ],
+      "page_number": 1
+    },
+    {
+      "type": "table",
+      "title": "Total Expense Ratio",
+      "headers": [
+        "",
+        ""
+      ],
+      "rows": [
+        [
+          "Regular Plan",
+          "0.43% p.a."
+        ]
+      ],
+      "page_number": 1
+    }
+  ],
+  "charts": [
+    {
+      "type": "chart",
+      "chart_type": "pie",
+      "title": "Instrument Wise Composition",
+      "x_axis": {
+        "label": null,
+        "values": []
+      },
+      "y_axis": {
+        "label": null,
+        "values": []
+      },
+      "data_series": [
+        {
+          "name": "Gold",
+          "values": [
+            95.85
+          ]
+        },
+        {
+          "name": "TREPS/ Net Current Asset",
+          "values": [
+            4.15
+          ]
+        }
+      ],
+      "page_number": 1
+    }
+  ],
+  "page_number": 14,
+  "notes": null,
+  "debug": {
+    "sent_image_path": null,
+    "sent_image_mime": "image/png",
+    "sent_image_bytes": 240075,
+    "image_px": [
+      0,
+      0
+    ],
+    "image_token_est": 0,
+    "tables_only": true,
+    "raw_model_text_omitted": true,
+    "local_raw_lines_count": 129,
+    "local_filter_debug": {
+      "orig_sections": 48,
+      "filtered_sections": 11
+    },
+    "local_text_extracted": true,
+    "tables_from_llm": 5,
+    "charts_from_llm": 1
+  },
+  "sections": [
+    {
+      "heading": "(An open-ended exchange traded fund replicating/tracking domestic prices of Gold.)",
+      "content": ""
+    },
+    {
+      "heading": "Investment Objective",
+      "content": ""
+    },
+    {
+      "heading": "Fund Manager Mr. Rahul Khetawat",
+      "content": ""
+    },
+    {
+      "heading": "Scheme Risk-O-Meter",
+      "content": ""
+    },
+    {
+      "heading": "Benchmark Risk-O-Meter",
+      "content": "• Long term capital appreciation;"
+    },
+    {
+      "heading": "Exchange Symbol/",
+      "content": "*Investors should consult their financial advisers if in doubt about"
+    },
+    {
+      "heading": "Scrip Code",
+      "content": "Low Risk\nVery High Risk\nLow Risk\nVery High Risk\nwhether the product is suitable for them.\n: INF579M01BB5"
+    },
+    {
+      "heading": "RISKOMETER",
+      "content": ""
+    },
+    {
+      "heading": "RISKOMETER",
+      "content": ""
+    },
+    {
+      "heading": "June 2025",
+      "content": "Mutual Fund investments are subject to market risks, read all scheme related documents carefully."
+    },
+    {
+      "heading": "Page |",
+      "content": "13"
+    }
+  ]
+}

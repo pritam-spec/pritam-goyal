@@ -1,0 +1,113 @@
+{
+  "title": null,
+  "subtitle": null,
+  "narrative_text": null,
+  "tables": [
+    {
+      "type": "table",
+      "title": "Credit Risk of scheme",
+      "headers": [
+        "Interest Rate Risk of the Scheme",
+        "Relatively Low (Class A)",
+        "Moderate (Class B)",
+        "Relatively High (Class C)"
+      ],
+      "rows": [
+        [
+          "Relatively Low (Class I)",
+          "A-I",
+          "B-I",
+          "C-I"
+        ],
+        [
+          "",
+          "NIL",
+          "360 ONE Liquid Fund",
+          "NIL"
+        ],
+        [
+          "Moderate (Class II)",
+          "A - II",
+          "B - II",
+          "C-I"
+        ],
+        [
+          "",
+          "NIL",
+          "NIL",
+          "NIL"
+        ],
+        [
+          "Relatively High (Class III)",
+          "A - III",
+          "B - III",
+          "C - III"
+        ],
+        [
+          "",
+          "NIL",
+          "NIL",
+          "360 ONE Dynamic Bond Fund"
+        ]
+      ],
+      "page_number": 1
+    },
+    {
+      "type": "table",
+      "title": null,
+      "headers": [
+        "",
+        ""
+      ],
+      "rows": [
+        [
+          "SIP",
+          "SIP or Systematic Investment Plan is a method of investing in mutual funds. It is a facility offered by mutual funds to investors to invest in a systematic manner by spreading out the amount of making periodic investments of a fixed sum. It works similar to a recurring bank deposit. For instance, if you invest Rs. 1,000 per month in an equity fund for a period of three years."
+        ],
+        [
+          "NAV",
+          "The NAV or the net asset value is the total asset value per unit of the mutual fund after deducting all related and permissible expenses. The NAV is calculated at the end of every business day. It is the value at which the investor enters or exits from the fund."
+        ],
+        [
+          "BENCHMARK",
+          "A group of securities, usually a market index, whose performance is used as a standard or benchmark to measure investment performance of mutual funds having similar investments. Some typical benchmarks include the NIFTY, BSE30, BSE100, BSE200, etc."
+        ],
+        [
+          "ENTRY LOAD",
+          "Entry load is a charge, expressed as a percentage of NAV, that is paid by an investor at the time of entry into a mutual fund. For instance, if the investor purchases the units of a mutual fund. The entry load is added to the prevailing NAV at the time of investment. For instance, if the NAV is ₹ 100"
+        ]
+      ],
+      "page_number": 1
+    }
+  ],
+  "charts": [],
+  "page_number": 16,
+  "notes": null,
+  "debug": {
+    "sent_image_path": null,
+    "sent_image_mime": "image/png",
+    "sent_image_bytes": 350561,
+    "image_px": [
+      0,
+      0
+    ],
+    "image_token_est": 0,
+    "tables_only": true,
+    "raw_model_text_omitted": true,
+    "local_raw_lines_count": 59
+  },
+  "sections": [
+    {
+      "heading": "GLOSSARY",
+      "content": ""
+    },
+    {
+      "heading": "POTENTIAL RISK CLASS OF A SCHEME",
+      "content": "360 ONE Asset Management Limited has positioned its debt schemes in terms of PRC matrix consisting of parameters based on maximum interest rate risk (measured by Macaulay\nDuration of the scheme) and maximum credit risk (measured by Credit Risk Value of the scheme). Accordingly, the debt schemes of the Mutual Fund shall be placed in PRC matrix as\nfollows:\nRelatively Low\nModerate\nRelatively High\n(Class A)\n(Class B)\n(Class C)"
+    },
+    {
+      "heading": "GLOSSARY OF TERMS",
+      "content": "An employee of the asset management company such as a mutual fund or life insurer, who manages investments of the scheme. He is usually part of a\nFUND MANAGER\nlarger team of fund managers and research analysts.\nAPPLICATION AMOUNT FOR FRESH SUBSCRIPTION\nThis is the minimum investment amount for a new investor in a mutual fund scheme.\nMINIMUM ADDITIONAL AMOUNT\nThis is the minimum investment amount for an existing investor in a mutual fund scheme.\nThe Yield to Maturity or the YTM is the rate of return anticipated on a bond if held until maturity. YTM is expressed as an annual rate. The YTM factors in\nYIELD TO MATURITY\nthe bond's current market price, par value, coupon interest rate and time to maturity.\nSIP or systematic investment plan works on the principle of making periodic investments of a fixed sum. It works similar to a recurring bank deposit. For\nSIP\ninstance, an investor may opt for an SIP that invests ` 500 every 15th of the month in an equity fund for a period of three years.\nThe NAV or the net asset value is the total asset value per unit of the mutual fund after deducting all related and permissible expenses. The NAV is\nNAV\ncalculated at the end of every business day. It is the value at which the investor enters or exits the mutual fund.\nA group of securities, usually a market index, whose performance is used as a standard or benchmark to measure investment performance of mutual\nBENCHMARK\nfunds, among other investments. Some typical benchmarks include the Nifty, Sensex, BSE200, BSE500, 10-Year Gsec.\nA mutual fund may have a sales charge or load at the time of entry and/or exit to compensate the distributor/agent. Entry load is charged at the time an\nENTRY LOAD\ninvestor purchases the units of a mutual fund. The entry load is added to the prevailing NAV at the time of investment. For instance, if the NAV is ` 100\nand the entry load is 1 %, the investor will enter the fund at ` 101.\nExit load is charged at the time an investor redeems the units of a mutual fund. The exit load is deducted from the prevailing NAV at the time of\nEXIT LOAD\nredemption. For instance, if the NAV is ` 100 and the exit load is 1%, the redemption price would be ` 99 per unit.\nMODIFIED DURATION\nModified duration is the price sensitivity and the percentage change in price for a unit change in yield.\nStandard deviation is a statistical measure of the range of an investment's performance. When a mutual fund has a high standard deviation, its means its\nSTANDARD DEVIATION\nrange of performance is wide, implying greater volatility.\nThe Sharpe Ratio, named after its founder, the Nobel Laureate William Sharpe, is a measure of risk-adjusted returns. It is calculated using\nSHARPE RATIO\nstandard deviation and excess return to determine reward per unit of risk.\nBeta is a measure of an investment's volatility vis-a-vis the market. Beta of less than 1 means that the security will be less volatile than the market. A beta\nBETA\nof greater than 1 implies that the security's price will be more volatile than the market.\nR-squared measures the relationship between a portfolio and its benchmark index. It measures the correlation of the portfolio's returns to the\nR-SQUARED\nbenchmark's returns.\nDeveloped by Jack Treynor, the Treynor ratio (also known as the \"reward-to-volatility ratio\") attempts to measure how well an investment has\nTREYNOR RATIO\ncompensated its investors given its level of risk. The Treynor ratio relies on beta, which measures an investment's sensitivity to market\nmovements, to gauge risk.\nAUM or assets under management refers to the recent I updated cumulative market value of investments managed by a mutual fund or any investment\nAUM\nfirm.\nTRACKING ERROR\nMeans the annualized standard deviation of the difference in daily returns between the underlying index and the NAV of the Scheme.\nTRACKING DIFFERENCE\nMeans the annualized difference of daily returns between the index and the NAV of the Scheme.\nThe holdings or the portfolio is a mutual fund's latest or updated reported statement of investments/securities. These are usually displayed in terms\nHOLDINGS\nof percentage to net assets or the rupee value or both. The objective is to give investors an idea of where their money is being invested by the fund\nmanager.\nThe investment objective and underlying investments determine the nature of the mutual fund scheme. For instance, a mutual fund that aims at generat-\nNATURE OF SCHEME\ning capital appreciation by investing in stock markets is an equity fund or growth fund. Likewise, a mutual fund that aims at capital preservation by\ninvesting in debt markets is a debt fund or income fund. Each of these categories may have sub-categories.\nMutual funds invest in securities after evaluating their creditworthiness as disclosed by the ratings. A depiction of the mutual fund in various investments\nRATING PROFILE\nbased on their ratings becomes the rating profile of the fund. Typically, this is a feature of debt funds.\nIDCW\nDividend option is renamed as Income Distribution cum Capital Withdrawal (IDCW) option for all Schemes effective from April 1, 2021\nNote: SEBI, vide circular dated June 30, 2009 has abolished entry load and mandated that the upfront commission to distributors will be paid by the investor directly to the distributor, based on his assessment of\nvarious factors including the service rendered by the distributor.\nJune 2025\nMutual Fund investments are subject to market risks, read all scheme related documents carefully.\nPage |\n15"
+    }
+  ]
+}

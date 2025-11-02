@@ -1,0 +1,571 @@
+{
+  "title": "360 ONE FOCUSED EQUITY FUND",
+  "subtitle": "(An open ended equity scheme investing in maximum 30 multicap stocks)",
+  "narrative_text": null,
+  "tables": [
+    {
+      "type": "table",
+      "title": "Portfolio as on May 31, 2025",
+      "headers": [
+        "Company Name",
+        "Sector",
+        "% to Net Assets"
+      ],
+      "rows": [
+        [
+          "Equity & Equity Related Total",
+          "",
+          ""
+        ],
+        [
+          "HDFC Bank Limited",
+          "Financial Services",
+          "9.01"
+        ],
+        [
+          "ICICI Bank Limited",
+          "Financial Services",
+          "7.15"
+        ],
+        [
+          "Infosys Limited",
+          "Information Technology",
+          "5.45"
+        ],
+        [
+          "Bharti Airtel Limited",
+          "Telecommunication",
+          "5.34"
+        ],
+        [
+          "Bajaj Finance Limited",
+          "Financial Services",
+          "4.66"
+        ],
+        [
+          "Cholamandalam Investment and Finance Company Limited",
+          "Financial Services",
+          "4.61"
+        ],
+        [
+          "Tata Motors Limited",
+          "Automobile and Auto Components",
+          "4.51"
+        ],
+        [
+          "Divi's Laboratories Limited",
+          "Healthcare",
+          "4.44"
+        ],
+        [
+          "Indus Towers Limited",
+          "Telecommunication",
+          "4.12"
+        ],
+        [
+          "APL Apollo Tubes Limited",
+          "Construction",
+          "3.77"
+        ],
+        [
+          "Eternal Limited",
+          "Consumer Services",
+          "3.75"
+        ],
+        [
+          "Larsen & Toubro Limited",
+          "Construction",
+          "3.25"
+        ],
+        [
+          "Motherson Sumi Wiring India Limited",
+          "Automobile and Auto Components",
+          "3.06"
+        ],
+        [
+          "Premier Energies Limited",
+          "Capital Goods",
+          "2.76"
+        ],
+        [
+          "Cummins India Limited",
+          "Capital Goods",
+          "2.60"
+        ],
+        [
+          "REC Limited",
+          "Financial Services",
+          "2.52"
+        ],
+        [
+          "InterGlobe Aviation Limited",
+          "Services",
+          "2.34"
+        ],
+        [
+          "Crompton Greaves Consumer Electricals Limited",
+          "Consumer Durables",
+          "2.28"
+        ],
+        [
+          "Aavri Financiers Limited",
+          "Financial Services",
+          "2.28"
+        ],
+        [
+          "Astral Limited",
+          "Capital Goods",
+          "2.21"
+        ],
+        [
+          "Choksey Lifesciences Limited",
+          "Healthcare",
+          "2.10"
+        ],
+        [
+          "Sumitomo Chemical India Limited",
+          "Chemicals",
+          "2.07"
+        ],
+        [
+          "CG Power and Industrial Solutions Limited",
+          "Capital Goods",
+          "1.93"
+        ],
+        [
+          "Sona BLW Precision Forgings Limited",
+          "Automobile and Auto Components",
+          "1.56"
+        ],
+        [
+          "SIS Limited",
+          "Consumer Services",
+          "1.43"
+        ],
+        [
+          "Colgate Palmolive (India) Limited",
+          "Fast Moving Consumer Goods",
+          "1.37"
+        ],
+        [
+          "Blue Dart Express Limited",
+          "Services",
+          "1.32"
+        ],
+        [
+          "NTPC Limited",
+          "Power",
+          "0.93"
+        ],
+        [
+          "Vodafone Idea Limited",
+          "Telecommunication",
+          "0.85"
+        ],
+        [
+          "Bharti Airtel Limited",
+          "Telecommunication",
+          "0.19"
+        ],
+        [
+          "Aegis Yopak Terminals Ltd#",
+          "Miscellaneous",
+          "1.28"
+        ],
+        [
+          "Sub Total",
+          "",
+          "95.17"
+        ],
+        [
+          "Net Receivables / (Payables)",
+          "",
+          "1.52"
+        ],
+        [
+          "Portfolio Total",
+          "",
+          "100.00"
+        ]
+      ],
+      "page_number": 5
+    },
+    {
+      "type": "table",
+      "title": "Scheme Performance",
+      "headers": [
+        "Scheme Performance",
+        "Last 1 year",
+        "PTP (₹)",
+        "Last 3 years",
+        "PTP (₹)",
+        "Last 5 years",
+        "PTP (₹)",
+        "Last 10 years",
+        "PTP (₹)",
+        "Since Inception",
+        "PTP (₹)"
+      ],
+      "rows": [
+        [
+          "360 ONE Focused Equity Fund - Reg - Growth",
+          "5.57%",
+          "10,557",
+          "19.54%",
+          "17,089",
+          "25.35%",
+          "31,003",
+          "15.50%",
+          "42,318",
+          "15.62%",
+          "46,513"
+        ],
+        [
+          "360 ONE Focused Equity Fund - Dir - Growth",
+          "6.61%",
+          "10,661",
+          "20.73%",
+          "17,607",
+          "26.68%",
+          "32,686",
+          "16.85%",
+          "47,575",
+          "16.95%",
+          "52,668"
+        ],
+        [
+          "Benchmark*",
+          "8.54%",
+          "10,854",
+          "18.16%",
+          "16,506",
+          "25.12%",
+          "30,721",
+          "13.94%",
+          "36,938",
+          "13.76%",
+          "39,194"
+        ],
+        [
+          "Additional Benchmark**",
+          "9.41%",
+          "10,941",
+          "14.13%",
+          "14,883",
+          "16.22%",
+          "21,229",
+          "12.79%",
+          "33,290",
+          "12.29%",
+          "33,970"
+        ]
+      ],
+      "page_number": 5
+    },
+    {
+      "type": "table",
+      "title": "NAV as on May 30, 2025",
+      "headers": [
+        "",
+        ""
+      ],
+      "rows": [
+        [
+          "Regular - Growth",
+          "₹ 46.4557"
+        ],
+        [
+          "Regular - IDCW",
+          "₹ 41.1137"
+        ],
+        [
+          "Direct - Growth",
+          "₹ 52.5982"
+        ],
+        [
+          "Direct - IDCW",
+          "₹ 52.0617"
+        ]
+      ],
+      "page_number": 5
+    },
+    {
+      "type": "table",
+      "title": "AUM as on May 31, 2025",
+      "headers": [
+        "",
+        ""
+      ],
+      "rows": [
+        [
+          "Net AUM",
+          "₹ 7,400.42 crore"
+        ],
+        [
+          "Monthly Average AUM",
+          "₹ 7,169.02 crore"
+        ]
+      ],
+      "page_number": 5
+    },
+    {
+      "type": "table",
+      "title": "Total Expense Ratio",
+      "headers": [
+        "",
+        ""
+      ],
+      "rows": [
+        [
+          "Regular Plan",
+          "1.80% p.a."
+        ],
+        [
+          "Direct Plan",
+          "0.81% p.a."
+        ]
+      ],
+      "page_number": 5
+    },
+    {
+      "type": "table",
+      "title": "Volatility Measures",
+      "headers": [
+        "Fund",
+        "Benchmark"
+      ],
+      "rows": [
+        [
+          "Std. Dev (Annualised)",
+          "13.28%"
+        ],
+        [
+          "Sharpe Ratio",
+          "0.98"
+        ],
+        [
+          "Portfolio Beta",
+          "0.88"
+        ],
+        [
+          "R Squared",
+          "0.92"
+        ],
+        [
+          "Treynor",
+          "1.23"
+        ]
+      ],
+      "page_number": 5
+    }
+  ],
+  "charts": [
+    {
+      "type": "chart",
+      "chart_type": "pie",
+      "title": "Market Capitalization wise Exposure",
+      "x_axis": {
+        "label": null,
+        "values": [
+          "Small Cap",
+          "Mid Cap",
+          "Large Cap"
+        ]
+      },
+      "y_axis": {
+        "label": null,
+        "values": [
+          14.5,
+          18.9,
+          66.81
+        ]
+      },
+      "data_series": [
+        {
+          "name": null,
+          "values": [
+            14.5,
+            18.9,
+            66.81
+          ]
+        }
+      ],
+      "page_number": 5
+    },
+    {
+      "type": "chart",
+      "chart_type": "bar",
+      "title": "Sector Allocation",
+      "x_axis": {
+        "label": "Sectors",
+        "values": [
+          "Financial Services",
+          "Capital Goods",
+          "Telecommunication",
+          "Automobile and Auto Components",
+          "Healthcare",
+          "Information Technology",
+          "Consumer Services",
+          "Services",
+          "Construction",
+          "Fast Moving Consumer Goods",
+          "Consumer Durables",
+          "Chemicals",
+          "Power",
+          "Miscellaneous"
+        ]
+      },
+      "y_axis": {
+        "label": "Percentage",
+        "values": [
+          25.23,
+          11.43,
+          10.5,
+          9.13,
+          6.54,
+          5.45,
+          5.18,
+          3.66,
+          7.02,
+          1.37,
+          2.28,
+          2.07,
+          0.93,
+          1.28
+        ]
+      },
+      "data_series": [
+        {
+          "name": null,
+          "values": [
+            25.23,
+            11.43,
+            10.5,
+            9.13,
+            6.54,
+            5.45,
+            5.18,
+            3.66,
+            7.02,
+            1.37,
+            2.28,
+            2.07,
+            0.93,
+            1.28
+          ]
+        }
+      ],
+      "page_number": 5
+    },
+    {
+      "type": "chart",
+      "chart_type": "line",
+      "title": "NAV Movement (Since Inception) Rebased to 100",
+      "x_axis": {
+        "label": "Date",
+        "values": [
+          "Oct-14",
+          "Feb-15",
+          "Jun-15",
+          "Oct-16",
+          "Jun-17",
+          "Jan-18",
+          "Jun-20",
+          "Mar-21",
+          "Sep-22",
+          "Jan-24",
+          "May-25"
+        ]
+      },
+      "y_axis": {
+        "label": "Value",
+        "values": [
+          100,
+          150,
+          200,
+          250,
+          300,
+          350,
+          400,
+          450,
+          500
+        ]
+      },
+      "data_series": [
+        {
+          "name": "360 ONE Focused Equity Fund - Reg - Growth",
+          "values": [
+            100,
+            125,
+            150,
+            175,
+            200,
+            225,
+            250,
+            325,
+            350,
+            375,
+            400
+          ]
+        },
+        {
+          "name": "BSE 500 TRI",
+          "values": [
+            100,
+            120,
+            140,
+            160,
+            180,
+            200,
+            220,
+            280,
+            300,
+            325,
+            350
+          ]
+        }
+      ],
+      "page_number": 5
+    }
+  ],
+  "page_number": 6,
+  "notes": null,
+  "debug": {
+    "sent_image_path": null,
+    "sent_image_mime": "image/png",
+    "sent_image_bytes": 634007,
+    "image_px": [
+      0,
+      0
+    ],
+    "image_token_est": 0,
+    "tables_only": true,
+    "raw_model_text_omitted": true,
+    "local_raw_lines_count": 92,
+    "local_filter_debug": {
+      "orig_sections": 13,
+      "filtered_sections": 4
+    },
+    "local_text_extracted": true,
+    "tables_from_llm": 6,
+    "charts_from_llm": 3
+  },
+  "sections": [
+    {
+      "heading": "(An open ended equity scheme investing in maximum 30 multicap stocks)",
+      "content": "Investment Objective\nThe investment objective of the scheme is to\n% to Net\n30.23%\ngenerate long term capital appreciation for\nAssets\n13.27%\ninvestors from a portfolio of equity and equity\n10.51%\nrelated securities. However there can be no\n9.14%\nassurance or guarantee that the investment\n6.54%\nobjective of the scheme would be achieved.\n5.45%\n5.19%\nFund Manager\nMr. Mayur Patel\n3.66%\n3.25%\nMr. Mayur Patel has 20 years of work experience\nCholamandalam Investment and Finance\n2.28%\nincluding investment management and research\nCompany Ltd\n2.07%\nexperience of more than 18 years.\nAutomobile and Auto\n1.37%\nComponents\n1.28%\nCo- Fund Manager\nMr. Ashish Ongari"
+    },
+    {
+      "heading": ": NIL\nEntry Load\nScheme Performance",
+      "content": ""
+    },
+    {
+      "heading": ": 1% - if redeemed/switched\nExit Load",
+      "content": "out, on or before 12\nSince"
+    },
+    {
+      "heading": "months\nInception",
+      "content": "360 ONE Focused Equity\nfrom the date of allotment\nFund - Reg - Growth\nw.e.f April 02, 2019.\n: D-Mat Option Available\nDematerialization\n360 ONE Focused Equity\n16.98%\nPortfolio Turnover\nFund - Dir - Growth\n: 0.33 times\nRatio\n*Weekly and Fortnightly SIP frequencies are not\n11.33%\n11,133\n14.95%\n15,195\n21.69%\n26,729\n12.76%\n33,280\n12.24%\navailable on BSE STAR MF Platform\nPast performance may or may not be sustained in future. Different plans shall have different expense structure. Point to Point (PTP) returns in ` is based on standard\ninvestment of ` 10,000; Since Inception date is 30 October 2014; *BSE 500 TRI; **BSE Sensex TRI; Managed by the fund manager since 11 November 2019 and co-fund\nmanager with effect from 21 February, 2025. The performance of the scheme is benchmarked to the Total Return variant of the Index."
+    }
+  ]
+}

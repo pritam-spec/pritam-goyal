@@ -1,0 +1,233 @@
+{
+  "title": null,
+  "subtitle": null,
+  "narrative_text": null,
+  "tables": [
+    {
+      "type": "table",
+      "title": "Portfolio as on May 31, 2025",
+      "headers": [
+        "Company Name",
+        "% to Net Assets"
+      ],
+      "rows": [
+        [
+          "Silver",
+          "96.46"
+        ],
+        [
+          "Silver",
+          "96.46"
+        ],
+        [
+          "TREPS##",
+          "0.40"
+        ],
+        [
+          "Sub Total",
+          "0.40"
+        ],
+        [
+          "Net Receivables / (Payables)",
+          "3.14"
+        ],
+        [
+          "Portfolio Total",
+          "100.00"
+        ]
+      ],
+      "page_number": 1
+    },
+    {
+      "type": "table",
+      "title": "Instrument Wise Composition",
+      "headers": [
+        "TREPS/ Net Current Asset",
+        "Silver"
+      ],
+      "rows": [
+        [
+          "3.54%",
+          "96.46%"
+        ]
+      ],
+      "page_number": 1
+    },
+    {
+      "type": "table",
+      "title": "Fund Details",
+      "headers": [
+        "Date of Allotment",
+        "Benchmark Index",
+        "Plans Offered",
+        "Options Offered",
+        "Minimum Application",
+        "New Purchase",
+        "Additional Purchase",
+        "Entry Load",
+        "Exit Load",
+        "Dematerialization",
+        "Exchange Listed",
+        "Exchange Symbol/ Scrip Code",
+        "ISIN",
+        "Asset Allocation",
+        "Silver and Silver related instruments",
+        "Debt/Money Market",
+        "Tracking Error"
+      ],
+      "rows": [
+        [
+          "March 28, 2025",
+          "Domestic Prices of Silver",
+          "The Scheme does not offer any Plans for investment",
+          "The Scheme does not offer any Options for investment",
+          "lot of 1 unit and in multiples thereof",
+          "lot of 1 unit and in multiples thereof",
+          "NIL",
+          "NIL",
+          "Available",
+          "NSE,BSE",
+          "SILVER360, 544389",
+          "INF579M01BC3",
+          "95% to 100%",
+          "0% to 5%",
+          "1.18%",
+          null,
+          null
+        ]
+      ],
+      "page_number": 1
+    },
+    {
+      "type": "table",
+      "title": "NAV as on May 30, 2025",
+      "headers": [
+        "360 ONE Silver ETF"
+      ],
+      "rows": [
+        [
+          "₹ 97.2665"
+        ]
+      ],
+      "page_number": 1
+    },
+    {
+      "type": "table",
+      "title": "AUM as on May 31, 2025",
+      "headers": [
+        "Net AUM",
+        "Monthly Average AUM"
+      ],
+      "rows": [
+        [
+          "₹ 7.55 crore",
+          "₹ 7.34 crore"
+        ]
+      ],
+      "page_number": 1
+    },
+    {
+      "type": "table",
+      "title": "Total Expense Ratio",
+      "headers": [
+        "Regular Plan"
+      ],
+      "rows": [
+        [
+          "0.41% p.a."
+        ]
+      ],
+      "page_number": 1
+    }
+  ],
+  "charts": [
+    {
+      "type": "chart",
+      "chart_type": "pie",
+      "title": null,
+      "x_axis": {
+        "label": null,
+        "values": []
+      },
+      "y_axis": {
+        "label": null,
+        "values": []
+      },
+      "data_series": [
+        {
+          "name": "Silver",
+          "values": [
+            96.46
+          ]
+        },
+        {
+          "name": "TREPS/Net Current Asset",
+          "values": [
+            3.54
+          ]
+        }
+      ],
+      "page_number": 1
+    },
+    {
+      "type": "chart",
+      "chart_type": "gauge",
+      "title": "Scheme Risk-O-Meter",
+      "x_axis": {
+        "label": null,
+        "values": []
+      },
+      "y_axis": {
+        "label": null,
+        "values": []
+      },
+      "data_series": [
+        {
+          "name": "Risk Level",
+          "values": [
+            "Very High"
+          ]
+        }
+      ],
+      "page_number": 1
+    },
+    {
+      "type": "chart",
+      "chart_type": "gauge",
+      "title": "Benchmark Risk-O-Meter",
+      "x_axis": {
+        "label": null,
+        "values": []
+      },
+      "y_axis": {
+        "label": null,
+        "values": []
+      },
+      "data_series": [
+        {
+          "name": "Risk Level",
+          "values": [
+            "Very High"
+          ]
+        }
+      ],
+      "page_number": 1
+    }
+  ],
+  "page_number": 15,
+  "notes": null,
+  "debug": {
+    "sent_image_path": null,
+    "sent_image_mime": "image/png",
+    "sent_image_bytes": 241718,
+    "image_px": [
+      0,
+      0
+    ],
+    "image_token_est": 0,
+    "tables_only": true,
+    "raw_model_text_omitted": true,
+    "tables_only_mode": true,
+    "kept_structured_only": true
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "page_number": 1,
+  "title": null,
+  "subtitle": null,
+  "narrative_text": null,
+  "tables": [],
+  "charts": [],
+  "notes": null,
+  "error": "no_tables_or_charts",
+  "debug": {
+    "sent_image_path": null,
+    "sent_image_mime": "image/png",
+    "sent_image_bytes": 447654,
+    "image_px": [
+      0,
+      0
+    ],
+    "image_token_est": 0,
+    "tables_only": true,
+    "raw_model_text_omitted": true,
+    "local_raw_lines_count": 7
+  },
+  "sections": [
+    {
+      "heading": "MONTHLY",
+      "content": "FACTSHEET\nJune 2025\nJune 2025\nMutual Fund investments are subject to market risks, read all scheme related documents carefully.\nPage |\n1"
+    }
+  ]
+}

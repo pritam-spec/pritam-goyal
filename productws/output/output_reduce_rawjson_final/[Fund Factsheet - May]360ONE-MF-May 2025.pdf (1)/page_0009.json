@@ -1,0 +1,846 @@
+{
+  "title": null,
+  "subtitle": null,
+  "narrative_text": null,
+  "tables": [
+    {
+      "type": "table",
+      "title": "Portfolio as on May 31, 2025",
+      "headers": [
+        "Company Name",
+        "Sector",
+        "% to Net Assets"
+      ],
+      "rows": [
+        [
+          "Equity & Equity Related Total",
+          "",
+          "13.12"
+        ],
+        [
+          "HDFC Bank Limited",
+          "Financial Services",
+          "9.06"
+        ],
+        [
+          "Reliance Industries Limited",
+          "Oil Gas & Consumable Fuels",
+          "8.04"
+        ],
+        [
+          "Infosys Limited",
+          "Information Technology",
+          "5.55"
+        ],
+        [
+          "Bharti Airtel Limited",
+          "Telecommunication",
+          "4.42"
+        ],
+        [
+          "Larsen & Toubro Limited",
+          "Construction",
+          "3.83"
+        ],
+        [
+          "NTPC Limited",
+          "Fast Moving Consumer Goods",
+          "3.15"
+        ],
+        [
+          "Tata Consultancy Services Limited",
+          "Information Technology",
+          "2.14"
+        ],
+        [
+          "Axis Bank Limited",
+          "Financial Services",
+          "3.02"
+        ],
+        [
+          "State Bank of India",
+          "Financial Services",
+          "2.77"
+        ],
+        [
+          "Kotak Mahindra Bank Limited",
+          "Financial Services",
+          "2.71"
+        ],
+        [
+          "Maruti Suzuki India Limited",
+          "Automobile and Auto Components",
+          "2.54"
+        ],
+        [
+          "ICICI Bank Limited",
+          "Financial Services",
+          "2.13"
+        ],
+        [
+          "Hindustan Unilever Limited",
+          "Fast Moving Consumer Goods",
+          "1.66"
+        ],
+        [
+          "Larsen & Toubro Infotech",
+          "",
+          "1.60"
+        ],
+        [
+          "HCL Technologies Limited",
+          "Information Technology",
+          "1.54"
+        ],
+        [
+          "Infosys Limited",
+          "Computer Services",
+          "1.47"
+        ],
+        [
+          "Mahindra & Mahindra Limited",
+          "Automobile and Auto Components",
+          "1.40"
+        ],
+        [
+          "NTPC Limited",
+          "Power",
+          "1.40"
+        ],
+        [
+          "Tata Motors Limited",
+          "Automobile and Auto Components",
+          "1.33"
+        ],
+        [
+          "Titan Company Limited",
+          "Consumer Durables",
+          "1.30"
+        ],
+        [
+          "Bharti Electronics Limited",
+          "Capital Goods",
+          "1.22"
+        ],
+        [
+          "Hindalco Industries Limited",
+          "Metals & Mining",
+          "1.18"
+        ],
+        [
+          "Power Grid Corporation of India Limited",
+          "Power",
+          "1.16"
+        ],
+        [
+          "UltraTech Cement Limited",
+          "Construction Materials",
+          "1.16"
+        ],
+        [
+          "Wipro Limited",
+          "Computer Services",
+          "1.07"
+        ],
+        [
+          "Bajaj Finance Limited",
+          "Financial Services",
+          "0.97"
+        ],
+        [
+          "Adani Ports and Special Economic Zone Limited",
+          "",
+          "0.94"
+        ],
+        [
+          "Asian Paints Limited",
+          "Consumer Durables",
+          "0.91"
+        ],
+        [
+          "Tech Mahindra Limited",
+          "Information Technology",
+          "0.87"
+        ],
+        [
+          "Hindustan Petroleum Limited",
+          "Oil Gas & Consumable Fuels",
+          "0.82"
+        ],
+        [
+          "Bajaj Auto Limited",
+          "Automobile and Auto Components",
+          "0.66"
+        ],
+        [
+          "JSW Steel Limited",
+          "Metals & Mining",
+          "0.64"
+        ],
+        [
+          "Tata Steel Limited",
+          "Metals & Mining",
+          "0.63"
+        ],
+        [
+          "Oil & Natural Gas Corporation",
+          "Oil Gas & Consumable Fuels",
+          "0.62"
+        ],
+        [
+          "Vedanta Industries Limited",
+          "Metals & Mining",
+          "0.61"
+        ],
+        [
+          "Coal India Limited",
+          "Oil Gas & Consumable Fuels",
+          "0.60"
+        ],
+        [
+          "Shriram Finance Limited",
+          "Financial Services",
+          "0.76"
+        ],
+        [
+          "ITC Limited",
+          "Fast Moving Consumer Goods",
+          "0.77"
+        ],
+        [
+          "HDFC Life Insurance Company Limited",
+          "Financial Services",
+          "0.74"
+        ],
+        [
+          "Dr. Reddy's Laboratories Limited",
+          "Healthcare",
+          "0.73"
+        ],
+        [
+          "SBI Life Insurance Company Limited",
+          "Financial Services",
+          "0.72"
+        ],
+        [
+          "Dr. Reddy's Laboratories Limited",
+          "Healthcare",
+          "0.65"
+        ],
+        [
+          "Eicher Motors Limited",
+          "Automobile and Auto Components",
+          "0.65"
+        ],
+        [
+          "Tata Consumer Products Limited",
+          "Fast Moving Consumer Goods",
+          "0.64"
+        ],
+        [
+          "Wipro Limited",
+          "Information Technology",
+          "0.63"
+        ],
+        [
+          "Godrej Consumer Enterprise Limited",
+          "Healthcare",
+          "0.62"
+        ],
+        [
+          "Adani Enterprises Limited",
+          "Metals & Mining",
+          "0.58"
+        ],
+        [
+          "MindaCorps Limited",
+          "Automobile and Auto Components",
+          "0.50"
+        ],
+        [
+          "IndusInd Bank Limited",
+          "Financial Services",
+          "0.48"
+        ]
+      ],
+      "page_number": 1
+    },
+    {
+      "type": "table",
+      "title": "Portfolio as on May 31, 2025 (Continued)",
+      "headers": [
+        "Company Name",
+        "Sector",
+        "% to Net Assets"
+      ],
+      "rows": [
+        [
+          "Cash & Future Related Total",
+          "",
+          "86.88"
+        ],
+        [
+          "Net Receivables/(Payables)",
+          "",
+          "0.70"
+        ],
+        [
+          "Portfolio Total",
+          "",
+          "100.00"
+        ],
+        [
+          "*Top 7 issuers",
+          "",
+          ""
+        ]
+      ],
+      "page_number": 1
+    },
+    {
+      "type": "table",
+      "title": "Sector Allocation^^",
+      "headers": [
+        "Sector",
+        "% to Net Assets"
+      ],
+      "rows": [
+        [
+          "Financial Services*",
+          "37.14%"
+        ],
+        [
+          "Information Technology",
+          "11.18%"
+        ],
+        [
+          "Oil Gas & Consumable Fuels",
+          "10.08%"
+        ],
+        [
+          "Automobile and Auto Components",
+          "7.08%"
+        ],
+        [
+          "Fast Moving Consumer Goods",
+          "6.22%"
+        ],
+        [
+          "Telecommunication",
+          "4.42%"
+        ],
+        [
+          "Construction",
+          "3.83%"
+        ],
+        [
+          "Healthcare",
+          "2.00%"
+        ],
+        [
+          "Metals & Mining",
+          "3.61%"
+        ],
+        [
+          "Computer Services",
+          "2.54%"
+        ],
+        [
+          "Power",
+          "2.57%"
+        ],
+        [
+          "Consumer Durables",
+          "2.21%"
+        ],
+        [
+          "Construction Materials",
+          "1.16%"
+        ],
+        [
+          "Capital Goods",
+          "1.22%"
+        ],
+        [
+          "Services",
+          "0.94%"
+        ]
+      ],
+      "page_number": 1
+    },
+    {
+      "type": "table",
+      "title": "Group Allocation^",
+      "headers": [
+        "Group Name",
+        "% of NAV"
+      ],
+      "rows": [
+        [
+          "HDFC",
+          "13.86%"
+        ],
+        [
+          "ICICI",
+          "9.05%"
+        ],
+        [
+          "Tata",
+          "8.70%"
+        ],
+        [
+          "Mukesh Ambani",
+          "8.54%"
+        ],
+        [
+          "PSU",
+          "5.42%"
+        ],
+        [
+          "Infosys",
+          "4.99%"
+        ],
+        [
+          "Bharti",
+          "4.42%"
+        ]
+      ],
+      "page_number": 1
+    },
+    {
+      "type": "table",
+      "title": "Fund Details",
+      "headers": [
+        "",
+        ""
+      ],
+      "rows": [
+        [
+          "Date of Allotment",
+          "December 28, 2022"
+        ],
+        [
+          "Bloomberg Code",
+          ""
+        ],
+        [
+          "Benchmark Index",
+          "NIFTY 50 TRI"
+        ],
+        [
+          "Plans Offered",
+          "Regular & Direct"
+        ],
+        [
+          "Options Offered",
+          "Growth & IDCW"
+        ],
+        [
+          "Minimum Application",
+          "₹5000 and multiples of ₹1 thereafter"
+        ],
+        [
+          "New Purchase*",
+          "₹500 and multiples of ₹1 thereafter"
+        ],
+        [
+          "Additional Purchase*",
+          ""
+        ],
+        [
+          "Weekly SIP Option*",
+          "₹500 per instalment for a minimum period of 12 months - Every Tuesday"
+        ],
+        [
+          "Fortnightly SIP Option**",
+          "₹500 per instalment for a minimum period of 12 Fortnights - 2nd and 16th of every month"
+        ],
+        [
+          "Monthly SIP Option",
+          "₹500 per instalment for a minimum period of 12 months - Any date 1st to 28th (Default - 7th of every month)"
+        ],
+        [
+          "Quarterly SIP Option",
+          "₹500 per instalment for a minimum period of 12 quarters - Any date 1st to 28th (Default - 7th)"
+        ],
+        [
+          "Entry Load",
+          "NIL"
+        ],
+        [
+          "Exit Load*",
+          "NIL"
+        ],
+        [
+          "Dematerialization",
+          "D-Mat Option Available"
+        ],
+        [
+          "Tracking Error",
+          "Regular Plan: 0.14%"
+        ],
+        [
+          "Tracking Error",
+          "Direct Plan: 0.14%"
+        ],
+        [
+          "Portfolio Turnover",
+          "0.07 times"
+        ],
+        [
+          "AAUM",
+          ""
+        ]
+      ],
+      "page_number": 1
+    },
+    {
+      "type": "table",
+      "title": "Tracking Difference",
+      "headers": [
+        "",
+        "1 Year",
+        "",
+        "Since Inception",
+        ""
+      ],
+      "rows": [
+        [
+          "",
+          "Regular",
+          "Direct",
+          "Regular",
+          "Direct"
+        ],
+        [
+          "",
+          "0.59%",
+          "0.43%",
+          "0.69%",
+          "0.44%"
+        ]
+      ],
+      "page_number": 1
+    },
+    {
+      "type": "table",
+      "title": "NAV as on May 30, 2025",
+      "headers": [
+        "",
+        ""
+      ],
+      "rows": [
+        [
+          "Regular - Growth",
+          "₹ 13.7048"
+        ],
+        [
+          "Regular -IDCW",
+          "₹ 13.7048"
+        ],
+        [
+          "Direct - Growth",
+          "₹ 13.8785"
+        ],
+        [
+          "Direct -IDCW",
+          "₹ 13.8785"
+        ]
+      ],
+      "page_number": 1
+    },
+    {
+      "type": "table",
+      "title": "AUM as on May 31, 2025",
+      "headers": [
+        "",
+        ""
+      ],
+      "rows": [
+        [
+          "Net AUM",
+          "₹ 86.35 crore"
+        ],
+        [
+          "Monthly Average AUM",
+          "₹ 84.43 crore"
+        ]
+      ],
+      "page_number": 1
+    },
+    {
+      "type": "table",
+      "title": "Total Expense Ratio",
+      "headers": [
+        "",
+        ""
+      ],
+      "rows": [
+        [
+          "Regular Plan",
+          "0.52% p.a"
+        ],
+        [
+          "Direct Plan",
+          "0.27% p.a"
+        ]
+      ],
+      "page_number": 1
+    },
+    {
+      "type": "table",
+      "title": "Volatility Measures",
+      "headers": [
+        "Fund",
+        "Benchmark"
+      ],
+      "rows": [
+        [
+          "Std. Dev (Annualised)",
+          "NA"
+        ],
+        [
+          "Sharpe Ratio",
+          "NA"
+        ],
+        [
+          "Portfolio Beta",
+          "NA"
+        ],
+        [
+          "R Squared",
+          "NA"
+        ],
+        [
+          "Treynor",
+          "NA"
+        ]
+      ],
+      "page_number": 1
+    },
+    {
+      "type": "table",
+      "title": "Scheme Performance",
+      "headers": [
+        "",
+        "Last 1 year",
+        "PTP (₹)",
+        "Last 3 years",
+        "PTP (₹)",
+        "Last 5 years",
+        "PTP (₹)",
+        "Since Inception",
+        "PTP (₹)"
+      ],
+      "rows": [
+        [
+          "360 ONE ELSS Tax Saver Nifty 50 Index - Reg - Growth",
+          "10.45%",
+          "11,045",
+          "-",
+          "-",
+          "-",
+          "-",
+          "14.19%",
+          "13,794"
+        ],
+        [
+          "360 ONE ELSS Tax Saver Nifty 50 Index Fund - Dir - Growth",
+          "10.72%",
+          "11,072",
+          "-",
+          "-",
+          "-",
+          "-",
+          "14.47%",
+          "13,878"
+        ],
+        [
+          "Benchmark*",
+          "11.08%",
+          "11,108",
+          "-",
+          "-",
+          "-",
+          "-",
+          "14.99%",
+          "14,030"
+        ],
+        [
+          "Additional Benchmark**",
+          "10.32%",
+          "11,032",
+          "-",
+          "-",
+          "-",
+          "-",
+          "14.82%",
+          "13,980"
+        ]
+      ],
+      "page_number": 1
+    },
+    {
+      "type": "table",
+      "title": "SIP - If you had invested ₹10,000 every month",
+      "headers": [
+        "Scheme / Benchmark",
+        "Last 1 year",
+        "Last 3 years",
+        "Last 5 years",
+        "Since Inception"
+      ],
+      "rows": [
+        [
+          "Total Amount Invested (₹)",
+          "1,20,000",
+          "NA",
+          "NA",
+          "2,90,000"
+        ],
+        [
+          "Total Value as on May 31, 2025 (₹)",
+          "1,24,085",
+          "NA",
+          "NA",
+          "3,40,450"
+        ],
+        [
+          "Returns",
+          "6.47%",
+          "NA",
+          "NA",
+          "13.55%"
+        ],
+        [
+          "Total Value (Benchmark: NIFTY 50 TRI) (₹)",
+          "1,24,417",
+          "NA",
+          "NA",
+          "3,43,756"
+        ],
+        [
+          "Benchmark: NIFTY 50 TRI",
+          "6.98%",
+          "NA",
+          "NA",
+          "14.27%"
+        ],
+        [
+          "Total Value (Additional Benchmark: BSE Sensex 50 - TRI) (₹)",
+          "1,23,905",
+          "NA",
+          "NA",
+          "3,42,586"
+        ],
+        [
+          "Additional Benchmark: BSE Sensex 50 - TRI",
+          "6.17%",
+          "NA",
+          "NA",
+          "13.96%"
+        ]
+      ],
+      "page_number": 1
+    }
+  ],
+  "charts": [
+    {
+      "type": "chart",
+      "chart_type": "line",
+      "title": "NAV Movement (Since Inception) Rebased to 100",
+      "x_axis": {
+        "label": null,
+        "values": [
+          "Dec-22",
+          "Mar-23",
+          "Jun-23",
+          "Sep-23",
+          "Dec-23",
+          "Mar-24",
+          "May-24",
+          "Aug-24",
+          "Nov-24",
+          "Feb-25",
+          "May-25"
+        ]
+      },
+      "y_axis": {
+        "label": null,
+        "values": [
+          100,
+          105,
+          110,
+          115,
+          120,
+          125,
+          130,
+          135,
+          140,
+          145,
+          150
+        ]
+      },
+      "data_series": [
+        {
+          "name": "360 ONE ELSS Tax Saver Nifty 50 Index Fund - Reg - Growth",
+          "values": [
+            100,
+            102,
+            108,
+            112,
+            118,
+            125,
+            130,
+            135,
+            140,
+            145,
+            150
+          ]
+        },
+        {
+          "name": "NIFTY 50 TRI",
+          "values": [
+            100,
+            103,
+            110,
+            115,
+            120,
+            127,
+            132,
+            137,
+            142,
+            147,
+            152
+          ]
+        }
+      ],
+      "page_number": 1
+    }
+  ],
+  "page_number": 9,
+  "notes": null,
+  "debug": {
+    "sent_image_path": null,
+    "sent_image_mime": "image/png",
+    "sent_image_bytes": 648487,
+    "image_px": [
+      0,
+      0
+    ],
+    "image_token_est": 0,
+    "tables_only": true,
+    "raw_model_text_omitted": true,
+    "local_raw_lines_count": 526
+  },
+  "sections": [
+    {
+      "heading": "replicating/tracking the Nifty 50 index)",
+      "content": "Investment Objective\nThe investment objective of scheme is to invest in\n% to Net\n% to Net\nstocks comprising the Nifty 50 Index in the same\nAssets\nAssets\nproportion as in the Index to achieve returns equivalent\nto the Total Returns Index of Nifty 50 Index (subject\nSub Total\n99.30\nto tracking error), while offering deduction on such\n9.05\ninvestment made in the scheme under section 80C of\n8.54\nthe Incometax Act, 1961. It also seeks to distribute\n4.99\nincome periodically depending on distributable surplus.\n*Top 7 issuers.\nThere is no assurance or guarantee that the investment\nobjective of the Scheme would be achieved Investments\n3.45\nin this scheme would be subject to a statutory lock-in\n3.14\nof 3 years from the date of allotment to avail Section\n80C benefits.\n37.33%\n2.34\n10.16%\nFund Manager\nMr. Ashish Ongari\n7.10%\n1.85\n6.70%\nMr. Ashish has overall six years of experience in\nSun Pharmaceutical Industries\nLimited\nfinancial services, specializing in algorithmic trading\n3.63%\nand quantitative research. He holds a B.Tech from\nEternal Limited\nConsumer Services\n3.41%\nNITK, Surathkal, and has previously worked as\nConsumer Services\n1.43\n2.58%\na trader at Capitalmind and a quant analyst at\nInvestmint. His expertise lies in factor investing,\n2.02%\nsystematic trading, and portfolio optimization.\nBharat Electronics Limited\n0%\n5%\n10%\n15%\n20%\n25%\n30%\n35%\n40%\nPower Grid Corporation of India\n^^Sector allocation as per AMFI classification\nLimited\n*Top 4 sectors exposure as a % of NAV\nTrent Limited\nConsumer Services\n1.11\nBajaj Finserv Limited\nAdani Ports and Special Economic\nZone Limited\n0.89\n: ` 500 and in multiples of\nGrasim Industries Limited\n` 500 thereafter\n0.85\n: ` 500 and in multiples of\n0.84\n` 500 thereafter\nJio Financial Services Limited\n0.83\n: ` 500 per instalment for\na minimum period of 12\nLimited\nweeks - Every Tuesday\n0.81\n: ` 500 per instalment for\nFortnightly\n0.80\na minimum period of 12\nSIP Option**\n0.79\n^ Top 7 groups exposure as a % of NAV\nfortnights - 2 nd and 16 th\nNestle India Limited\nof every month\nHDFC Life Insurance Company\n: ` 500 per instalment for\nLimited\na minimum period of 12\nCipla Limited\n360 One ELSS Tax Saver Nifty 50 Index Fund - Reg - Growth\nmonths - Any date 1 st to\n160\n28 th (Default – 7 th of every\n0.68\nmonth)\n: ` 500 per instalment for\na minimum period of 12\nquarters- Any date 1 st to\nApollo Hospitals Enterprise Limited\n28 th (Default – 7 th )\nHero MotoCorp Limited"
+    },
+    {
+      "heading": "Ratio\nScheme Performance",
+      "content": "*(subject to lock-in-period of 3 years from the date of\nallotment).\n**Weekly and Fortnightly SIP frequencies are not\navailable on BSE STAR MF Platform\n360 ONE ELSS Tax Saver Nifty 50 Index - Reg\n360 ONE ELSS Tax Saver Nifty 50 Index Fund\n0.34%\nPast performance may or may not be sustained in future. Different plans shall have different expense structure. Point to Point (PTP) returns in ` is based on standard\ninvestment of ` 10,000; Since Inception date is 28 December 2022; *Nifty 50 TRI; **BSE Sensex 50 - TRI; Managed by the fund manager since 25 April 2025. The performance\nof the scheme is benchmarked to the Total Return variant of the Index.\n` 13.7948\n` 13.7948\n` 85.35 crore\n1,24,035\n3,40,964\n6.37%\nTotal Value of Benchmark: NIFTY 50 TRI ( ` )\n3,43,786\nTotal Value of Additional Benchmark: BSE Sensex 50 - TRI ( ` )\n3,42,585\n0.52% p.a.\n0.27% p.a.\n(Inception date :28-Dec-2022) (First Installment date :01-Jan-2023)\nTotal Expense Ratio is as on the last business\nSource: MFI Explorer; Above returns are calculated assuming investment of ` 10,000/- on the 1st working day of every month. CAGR return are computed after accounting\nday of the month.\nfor the cash flow by using XIRR method (investment internal rate of return) for Regular Plan -Growth option. The above investment simulation is for illustrative purposes only\nand should not be construed as a promise on minimum returns and safeguard of capital.\nTHIS PRODUCT IS SUITABLE FOR INVESTORS WHO ARE SEEKING*\n• Capital appreciation over long term;\nStd. Dev\nScheme Risk-O-Meter\nBenchmark Risk-O-Meter\n(Annualised)\n• Investment in stocks comprising the Nifty 50 Index in the same\nproportion as in the index to achieve returns equivalent to the Total\nModerate Risk\nModerately High Risk\nModerate Risk\nModerately High Risk\nreturns Index of Nifty 50 Index, subject to tracking error while\nLow to Moderate Risk\nHigh Risk\nLow to Moderate Risk\nHigh Risk\noffering deduction under Section 80C of IT Act, 1961.\nLow Risk\nVery High Risk\nLow Risk\nVery High Risk\n*Investors should consult their financial advisers if in doubt about\nRISKOMETER\nwhether the product is suitable for them.\nRISKOMETER\nThe risk of the scheme is Very High\nThe risk of the benchmark is Very High\n## With effect from November 05, 2018, Triparty Repo has\nreplaced CBLOs for all schemes with provisions to invest in CBLO.\nMutual Fund investments are subject to market risks, read all scheme related documents carefully.\nPage |\n8"
+    }
+  ]
+}
